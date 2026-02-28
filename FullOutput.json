@@ -1,8 +1,8 @@
 {
     "status": "OK",
-    "request_id": "7402ae73-3039-430f-8b9c-077604fcac62",
+    "request_id": "010cffdc-5847-4dcf-8153-6e1dc6b3bc38",
     "parameters": {
-        "query": "Gambler in Las Vegas, NV",
+        "query": "Business Intelligence Intern in Las Vegas, NV",
         "page": 1,
         "num_pages": 1,
         "date_posted": "all",
@@ -10,217 +10,6 @@
         "language": "en"
     },
     "data": [
-        {
-            "job_id": "F9eaIOmsmRFYofrdAAAAAA==",
-            "job_title": "Analyst, Governance",
-            "employer_name": "GamblingCareers.com",
-            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMD7mUGz8MDemhrpkF1lgmztGtzYoejZprSm1L&s=0",
-            "employer_website": "https://www.gamblingcareers.com",
-            "job_publisher": "LinkedIn",
-            "job_employment_type": "Full-time",
-            "job_employment_types": [
-                "FULLTIME"
-            ],
-            "job_apply_link": "https://www.linkedin.com/jobs/view/analyst-governance-at-gamblingcareers-com-4378047235?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-            "job_apply_is_direct": false,
-            "apply_options": [
-                {
-                    "publisher": "LinkedIn",
-                    "apply_link": "https://www.linkedin.com/jobs/view/analyst-governance-at-gamblingcareers-com-4378047235?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Tech Jobs Personalized",
-                    "apply_link": "https://builtin.com/job/analyst-governance/8574166?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Adzuna",
-                    "apply_link": "https://www.adzuna.com/details/5646292499?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "ZipRecruiter",
-                    "apply_link": "https://www.ziprecruiter.com/c/Aristocrat/Job/Analyst,-Governance/-in-Las-Vegas,NV?jid=9f49336715fbaaba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": true
-                },
-                {
-                    "publisher": "Glassdoor",
-                    "apply_link": "https://www.glassdoor.com/job-listing/analyst-governance-aristocrat-JV_IC1149603_KO0,18_KE19,29.htm?jl=1010044519724&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "WORK180",
-                    "apply_link": "https://work180.com/en-us/for-women/employer/aristocrat/job/927121/analyst-governance?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "BeBee",
-                    "apply_link": "https://us.bebee.com/job/95e10e646438c8814dc7ff2e789e1c7a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "GameJobs.co",
-                    "apply_link": "https://gamejobs.co/Analyst-Governance-at-Aristocrat?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "apply_link": "https://www.linkedin.com/jobs/view/analyst-governance-at-gamblingcareers-com-4378047235",
-                    "is_direct": null,
-                    "publisher": "LinkedIn"
-                }
-            ],
-            "job_description": "The Governance Analyst contributes to the implementation of Aristocrat\u2019s Enterprise Data Governance Framework, enabling trusted, well-managed, and compliant data across the organization. This role focuses on maintaining governance tools such as BigID and Alation, driving metadata quality, data ownership visibility, and compliance with data protection and management standards.\n\nThe Governance Analyst serves as a key liaison between Data Governance, IT, Privacy, and Business teams to improve data transparency, quality, and accountability. Success in this role requires outstanding relationship management, multi-functional teamwork, and a proactive approach to improving governance processes.\n\nWhat You'll Do\n\u2022 Coordinate and maintain data governance tools, including BigID (data discovery, classification, and privacy compliance) and Alation (metadata and data catalog).\n\u2022 Partner with business and IT team members to ensure accurate and complete documentation of data assets, business terms, and ownership assignments.\n\u2022 Support the ongoing operation of Aristocrat\u2019s Data Governance Framework, ensuring consistency with enterprise standards and regulatory requirements.\n\u2022 Conduct data discovery and sensitivity analysis through BigID to identify and classify personal or confidential data across enterprise platforms.\n\u2022 Maintain high-quality metadata in Alation, including glossary terms, lineage, and stewardship assignments.\n\u2022 Track and report on key data governance metrics, including catalog adoption, BigID scan coverage, and data quality findings.\n\u2022 Develop and maintain relationships with global data owners, stewards, and privacy partners to support compliance and governance adoption.\n\u2022 Coordinate with Legal, Security, and Compliance functions to maintain data protection standards and ensure alignment with privacy obligations (GDPR, CCPA, etc.).\n\u2022 Support initiatives related to training and communication to drive awareness and adoption of data governance processes and tools.\n\u2022 Find opportunities to streamline governance operations and improve efficiency through automation or new technology capabilities\n\nWhat We're Looking For\n\u2022 Bachelor\u2019s degree in Information Systems, Data Governance, Computer Science, or related field.\n\u2022 2\u20134 years of experience in data governance, data management, or compliance-related roles.\n\u2022 Hands-on experience with BigID and Alation, or comparable governance and privacy management tools.\n\u2022 Strong stakeholder engagement and relationship management skills; capable of influencing across functions.\n\u2022 Understanding of data governance principles, including metadata management, data stewardship, data quality, and privacy compliance.\n\u2022 Excellent written and verbal communication skills, with the ability to translate technical topics into business context.\n\u2022 Familiarity with Snowflake and modern data platforms. Experience in highly regulated industries or environments with strong data privacy requirements\n\nWhy Aristocrat?\n\nAristocrat is a world leader in gaming content and technology, and a top-tier publisher of free-to-play mobile games. We deliver great performance for our B2B customers and bring joy to the lives of the millions of people who love to play our casino and mobile games. And while we focus on fun, we never forget our responsibilities. We strive to lead the way in responsible gameplay, and to lift the bar in company governance, employee wellbeing and sustainability. We\u2019re a diverse business united by shared values and an inspiring mission to bring joy to life through the power of play.\n\nWe aim to create an environment where individual differences are valued, and all employees have the opportunity to realize their potential. We welcome and encourage applications from all people regardless of age, gender, race, ethnicity, cultural background, disability status or LGBTQ+ identity. EEO M/F/D/V\n\u2022 World Leader in Gaming Entertainment\n\u2022 Robust benefits package\n\u2022 Global career opportunities\n\nOur Values\n\u2022 All about the Player\n\u2022 Talent Unleashed\n\u2022 Collective Brilliance\n\u2022 Good Business Good Citizen\n\nTravel Expectations\n\nNone\n\nPay Range\n\n$87,082 - $161,723 per year\n\nOur goal is to pay a market competitive salary focusing near the median of our pay ranges. However, final offers for all positions will be based on several factors such as experience level, education, skills, work location, and internal pay equity.\n\nThis position offers a comprehensive benefits package, including health, dental, and vision insurance, paid time off, and a 401(k) plan with employer matching, more details available at https://atibenefits.com/.\n\nAdditional Information\n\nAt this time, we are unable to sponsor work visas for this position. Candidates must be authorized to work in the job posting location for this position on a full-time basis without the need for current or future visa sponsorship.",
-            "job_is_remote": false,
-            "job_posted_at": "3 days ago",
-            "job_posted_at_timestamp": 1771977600,
-            "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z",
-            "job_location": "Las Vegas, NV",
-            "job_city": "Las Vegas",
-            "job_state": "Nevada",
-            "job_country": "US",
-            "job_latitude": 36.171563,
-            "job_longitude": -115.13910089999999,
-            "job_benefits": [
-                "paid_time_off",
-                "health_insurance",
-                "dental_coverage"
-            ],
-            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DF9eaIOmsmRFYofrdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-            "job_min_salary": 87082,
-            "job_max_salary": 161723,
-            "job_salary_period": "YEAR",
-            "job_highlights": {
-                "Qualifications": [
-                    "Bachelor\u2019s degree in Information Systems, Data Governance, Computer Science, or related field",
-                    "2\u20134 years of experience in data governance, data management, or compliance-related roles",
-                    "Hands-on experience with BigID and Alation, or comparable governance and privacy management tools",
-                    "Strong stakeholder engagement and relationship management skills; capable of influencing across functions",
-                    "Understanding of data governance principles, including metadata management, data stewardship, data quality, and privacy compliance",
-                    "Excellent written and verbal communication skills, with the ability to translate technical topics into business context",
-                    "Familiarity with Snowflake and modern data platforms",
-                    "Experience in highly regulated industries or environments with strong data privacy requirements"
-                ],
-                "Benefits": [
-                    "Robust benefits package",
-                    "Global career opportunities",
-                    "Good Business Good Citizen",
-                    "$87,082 - $161,723 per year",
-                    "Our goal is to pay a market competitive salary focusing near the median of our pay ranges",
-                    "However, final offers for all positions will be based on several factors such as experience level, education, skills, work location, and internal pay equity",
-                    "This position offers a comprehensive benefits package, including health, dental, and vision insurance, paid time off, and a 401(k) plan with employer matching, more details available at https://atibenefits.com/"
-                ],
-                "Responsibilities": [
-                    "The Governance Analyst contributes to the implementation of Aristocrat\u2019s Enterprise Data Governance Framework, enabling trusted, well-managed, and compliant data across the organization",
-                    "This role focuses on maintaining governance tools such as BigID and Alation, driving metadata quality, data ownership visibility, and compliance with data protection and management standards",
-                    "The Governance Analyst serves as a key liaison between Data Governance, IT, Privacy, and Business teams to improve data transparency, quality, and accountability",
-                    "Success in this role requires outstanding relationship management, multi-functional teamwork, and a proactive approach to improving governance processes",
-                    "Coordinate and maintain data governance tools, including BigID (data discovery, classification, and privacy compliance) and Alation (metadata and data catalog)",
-                    "Partner with business and IT team members to ensure accurate and complete documentation of data assets, business terms, and ownership assignments",
-                    "Support the ongoing operation of Aristocrat\u2019s Data Governance Framework, ensuring consistency with enterprise standards and regulatory requirements",
-                    "Conduct data discovery and sensitivity analysis through BigID to identify and classify personal or confidential data across enterprise platforms",
-                    "Maintain high-quality metadata in Alation, including glossary terms, lineage, and stewardship assignments",
-                    "Track and report on key data governance metrics, including catalog adoption, BigID scan coverage, and data quality findings",
-                    "Develop and maintain relationships with global data owners, stewards, and privacy partners to support compliance and governance adoption",
-                    "Coordinate with Legal, Security, and Compliance functions to maintain data protection standards and ensure alignment with privacy obligations (GDPR, CCPA, etc.)",
-                    "Support initiatives related to training and communication to drive awareness and adoption of data governance processes and tools",
-                    "Find opportunities to streamline governance operations and improve efficiency through automation or new technology capabilities"
-                ]
-            },
-            "job_onet_soc": null,
-            "job_onet_job_zone": null
-        },
-        {
-            "job_id": "vdnDQ5VdNZ-_uuVDAAAAAA==",
-            "job_title": "21 Dealer (FT) 1",
-            "employer_name": "Fremont Hotel & Casino",
-            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMYnvYz4pe4iNNpsx-G68Vcl330L3UenILOCOS&s=0",
-            "employer_website": "https://fremont.boydgaming.com",
-            "job_publisher": "ZipRecruiter",
-            "job_employment_type": "Full-time",
-            "job_employment_types": [
-                "FULLTIME"
-            ],
-            "job_apply_link": "https://www.ziprecruiter.com/c/Fremont-Hotel-&-Casino/Job/21-Dealer-(FT)-1/-in-Las-Vegas,NV?jid=3e7c467ff3f3ce06&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-            "job_apply_is_direct": true,
-            "apply_options": [
-                {
-                    "publisher": "ZipRecruiter",
-                    "apply_link": "https://www.ziprecruiter.com/c/Fremont-Hotel-&-Casino/Job/21-Dealer-(FT)-1/-in-Las-Vegas,NV?jid=3e7c467ff3f3ce06&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": true
-                },
-                {
-                    "publisher": "LinkedIn",
-                    "apply_link": "https://www.linkedin.com/jobs/view/21-dealer-ft-1-at-fremont-hotel-casino-4379042657?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Adzuna",
-                    "apply_link": "https://www.adzuna.com/details/5648004821?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": true
-                },
-                {
-                    "publisher": "Talentify",
-                    "apply_link": "https://www.talentify.io/job/21-dealer-ft-1-las-vegas-nevada-us-boyd-gaming-ref18555m?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "BeBee",
-                    "apply_link": "https://us.bebee.com/job/e43ae92d53f75bd648d39a1cde8b159a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Jobrapido",
-                    "apply_link": "https://us.jobrapido.com/jobpreview/6660361463439294464?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Recruit.net",
-                    "apply_link": "https://www.recruit.net/job/-dealer-ft--jobs/F6E7089AE729302D?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                }
-            ],
-            "job_description": "Company Description\n\nBoyd Gaming Corporation has been successful in gaming jurisdiction in which we operate in the United States and is one of the premier casino entertainment companies in the United States. Never content to rest upon our successes, we will continue to evolve and retain a position of leadership in our industry. Our past success, our current business philosophies and our sound business planning, combine to position Boyd Gaming Corporation to maximize value for our shareholders, our team members and our communities.\nJob Description\n\nDeal assigned games in an accurate manner while providing outstanding customer service.\n\nJob Functions\n\u2022 Deal game according to standard rules, company procedures, and applicable gaming regulations.\n\u2022 Shuffle and deal cards accurately to customers.\n\u2022 Quickly and accurately calculate face value of cards.\n\u2022 Exchange cash for proper denominations of chips.\n\u2022 Pick up losing bets and cards from customer\u2019s betting square. Pay winning bets and place chips in appropriate betting square.\n\u2022 Complete any required forms, records, and documents.\nQualifications\n\u2022 Must be at least 21 years of age.\n\u2022 Six (6) months of prior experience or dealer\u2019s school strongly preferred.\n\u2022 Maintain current knowledge of applicable company policies and gaming regulations.\n\u2022 Must have excellent customer skills.\n\u2022 Must be able to stand for extended periods of time for majority of shift.\n\u2022 Must be able to bend and reach across gaming table.\n\u2022 Must be able to use hands to deal and collect playing cards.\n\nMust be able to obtain/maintain any necessary licenses and/or certificatio\n\nAdditional Information\n\nBoyd Gaming is proud to be an Equal Opportunity Employer and does not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state, or local protected class.\n\nBoyd Gaming is proud to be an Equal Opportunity Employer and does not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state, or local protected class.",
-            "job_is_remote": false,
-            "job_posted_at": "13 hours ago",
-            "job_posted_at_timestamp": 1772251200,
-            "job_posted_at_datetime_utc": "2026-02-28T04:00:00.000Z",
-            "job_location": "Las Vegas, NV",
-            "job_city": "Las Vegas",
-            "job_state": "Nevada",
-            "job_country": "US",
-            "job_latitude": 36.171563,
-            "job_longitude": -115.13910089999999,
-            "job_benefits": null,
-            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DvdnDQ5VdNZ-_uuVDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-            "job_salary": null,
-            "job_min_salary": null,
-            "job_max_salary": null,
-            "job_salary_period": null,
-            "job_highlights": {
-                "Qualifications": [
-                    "Must be at least 21 years of age",
-                    "Maintain current knowledge of applicable company policies and gaming regulations",
-                    "Must have excellent customer skills",
-                    "Must be able to stand for extended periods of time for majority of shift",
-                    "Must be able to bend and reach across gaming table",
-                    "Must be able to use hands to deal and collect playing cards",
-                    "Must be able to obtain/maintain any necessary licenses and/or certificatio"
-                ],
-                "Responsibilities": [
-                    "Deal assigned games in an accurate manner while providing outstanding customer service",
-                    "Deal game according to standard rules, company procedures, and applicable gaming regulations",
-                    "Shuffle and deal cards accurately to customers",
-                    "Quickly and accurately calculate face value of cards",
-                    "Exchange cash for proper denominations of chips",
-                    "Pick up losing bets and cards from customer\u2019s betting square",
-                    "Pay winning bets and place chips in appropriate betting square",
-                    "Complete any required forms, records, and documents"
-                ]
-            },
-            "job_onet_soc": "39301100",
-            "job_onet_job_zone": "2"
-        },
         {
             "job_id": "Ic0A97t9OtwCsPm_AAAAAA==",
             "job_title": "Intern, Business Intelligence",
@@ -241,6 +30,16 @@
                     "is_direct": false
                 },
                 {
+                    "publisher": "Glassdoor",
+                    "apply_link": "https://www.glassdoor.com/job-listing/intern-business-intelligence-aristocrat-JV_IC1149603_KO0,28_KE29,39.htm?jl=1010045592785&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Teal",
+                    "apply_link": "https://www.tealhq.com/job/intern-business-intelligence_7ea1ace462a8b8b5b7f412d7fd8107129ded5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
                     "publisher": "Indeed",
                     "apply_link": "https://www.indeed.com/viewjob?jk=106f79ce4c9e3ed5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
                     "is_direct": false
@@ -256,11 +55,6 @@
                     "is_direct": false
                 },
                 {
-                    "publisher": "Glassdoor",
-                    "apply_link": "https://www.glassdoor.com/job-listing/intern-business-intelligence-aristocrat-JV_IC1149603_KO0,28_KE29,39.htm?jl=1010045592785&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
                     "publisher": "GameJobs.co",
                     "apply_link": "https://gamejobs.co/Intern-Business-Intelligence-at-Aristocrat?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
                     "is_direct": false
@@ -268,11 +62,6 @@
                 {
                     "publisher": "MyGwork",
                     "apply_link": "https://mygwork.com/jobs/aristocrat-intern-business-intelligence?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "NPloy",
-                    "apply_link": "https://nploy.net/jobs/united-states/data-science-and-analytics/las-vegas/intern-business-intelligence/223821-X?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
                     "is_direct": false
                 },
                 {
@@ -335,182 +124,32 @@
             "job_onet_job_zone": "4"
         },
         {
-            "job_id": "mCPo2FQ0J1SkhuJhAAAAAA==",
-            "job_title": "Senior Analyst, Governance",
-            "employer_name": "GamblingCareers.com",
-            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMD7mUGz8MDemhrpkF1lgmztGtzYoejZprSm1L&s=0",
-            "employer_website": "https://www.gamblingcareers.com",
-            "job_publisher": "LinkedIn",
-            "job_employment_type": "Full-time",
+            "job_id": "JC7f5JWRMznPy3JOAAAAAA==",
+            "job_title": "Business Intelligence UWEP Internship - Fall 2025",
+            "employer_name": "United Soccer League (USL)",
+            "employer_logo": null,
+            "employer_website": "https://www.unitedsoccerleague.com",
+            "job_publisher": "Snagajob",
+            "job_employment_type": "Full-time and Part-time",
             "job_employment_types": [
-                "FULLTIME"
+                "FULLTIME",
+                "PARTTIME"
             ],
-            "job_apply_link": "https://www.linkedin.com/jobs/view/senior-analyst-governance-at-gamblingcareers-com-4378046256?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_link": "https://www.snagajob.com/jobs/1140362078?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
             "job_apply_is_direct": false,
             "apply_options": [
                 {
-                    "publisher": "LinkedIn",
-                    "apply_link": "https://www.linkedin.com/jobs/view/senior-analyst-governance-at-gamblingcareers-com-4378046256?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "publisher": "Snagajob",
+                    "apply_link": "https://www.snagajob.com/jobs/1140362078?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
                     "is_direct": false
                 },
                 {
-                    "publisher": "Tech Jobs Personalized",
-                    "apply_link": "https://builtin.com/job/senior-analyst-governance/8574146?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Adzuna",
-                    "apply_link": "https://www.adzuna.com/details/5646305848?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "ZipRecruiter",
-                    "apply_link": "https://www.ziprecruiter.com/c/Aristocrat-Technologies/Job/Senior-Analyst,-Governance/-in-Las-Vegas,NV?jid=7d23f58faf1c5ef4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": true
-                },
-                {
-                    "publisher": "Glassdoor",
-                    "apply_link": "https://www.glassdoor.com/job-listing/senior-analyst-governance-aristocrat-JV_IC1149603_KO0,25_KE26,36.htm?jl=1010044519733&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "WORK180",
-                    "apply_link": "https://work180.com/en-us/for-women/employer/aristocrat/job/927120/senior-analyst-governance?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "BeBee",
-                    "apply_link": "https://us.bebee.com/job/ae2de8bcc33944d00d9edfdcfc340279?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Experteer",
-                    "apply_link": "https://us.experteer.com/career/view-jobs/senior-analyst-governance-las-vegas-nv-usa-56305304?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "apply_link": "https://www.linkedin.com/jobs/view/senior-analyst-governance-at-gamblingcareers-com-4378046256",
+                    "apply_link": "https://www.snagajob.com/jobs/1140362078",
                     "is_direct": null,
-                    "publisher": "LinkedIn"
+                    "publisher": "Snagajob"
                 }
             ],
-            "job_description": "The Senior Governance Analyst plays a pivotal role in defining, executing, and advancing Aristocrat\u2019s Enterprise Data Governance Framework. This role combines hands-on technical expertise with strategic leadership to develop and drive the roadmap for data governance technologies and services that enable trusted, compliant, and high-quality data across the organization.\n\nAs a senior member of the Governance team, this individual partners with leadership in Data Governance, IT, and Enterprise Data & Analytics to define governance standards, promote data stewardship maturity, and influence enterprise data strategy.\n\nWhat You'll Do\n\u2022 Lead coordination and delivery for governance technologies (e.g., BigID, Alation), ensuring scalability, integration, and alignment with enterprise data strategies.\n\u2022 Partner with data platform teams and enterprise architects to identify and implement governance capabilities that improve data discoverability, quality, and compliance.\n\u2022 Serve as a domain expert and mentor to Governance Analysts, guiding guidelines for metadata management, stewardship, and policy adherence.\n\u2022 Define and lead the strategic plan for governance tools and processes, evaluating new technologies to drive continuous improvement.\n\u2022 Oversee metrics and reporting to measure governance adoption, tool utilization, and data quality improvements across the business.\n\u2022 Collaborate with global data owners, stewards, and compliance teams to ensure governance standards are embedded in business processes and data pipelines.\n\u2022 Lead collaborator communication and change management initiatives to promote a culture of data accountability and governance maturity.\n\u2022 Support the alignment of governance frameworks with privacy, security, and regulatory requirements globally.\n\nWhat We're Looking For\n\u2022 Bachelor\u2019s degree in Information Systems, Computer Science, Data Governance, or related field.\n\u2022 5+ years of experience in data governance, metadata management, or data strategy roles.\n\u2022 Proven experience defining and implementing governance technology strategies and roadmaps.\n\u2022 Expertise with BigID, Alation, or comparable governance and privacy tools.\n\u2022 Strong collaborator engagement and influence skills, capable of driving alignment across technical and business teams.\n\u2022 Deep understanding of governance principles, data lifecycle management, and regulatory compliance.\n\u2022 Superb communication and presentation skills, with the ability to translate technical concepts for executive audiences.\n\nWhy Aristocrat?\n\nAristocrat is a world leader in gaming content and technology, and a top-tier publisher of free-to-play mobile games. We deliver great performance for our B2B customers and bring joy to the lives of the millions of people who love to play our casino and mobile games. And while we focus on fun, we never forget our responsibilities. We strive to lead the way in responsible gameplay, and to lift the bar in company governance, employee wellbeing and sustainability. We\u2019re a diverse business united by shared values and an inspiring mission to bring joy to life through the power of play.\n\nWe aim to create an environment where individual differences are valued, and all employees have the opportunity to realize their potential. We welcome and encourage applications from all people regardless of age, gender, race, ethnicity, cultural background, disability status or LGBTQ+ identity. EEO M/F/D/V\n\u2022 World Leader in Gaming Entertainment\n\u2022 Robust benefits package\n\u2022 Global career opportunities\n\nOur Values\n\u2022 All about the Player\n\u2022 Talent Unleashed\n\u2022 Collective Brilliance\n\u2022 Good Business Good Citizen\n\nTravel Expectations\n\nNone\n\nPay Range\n\n$98,395 - $182,735 per year\n\nOur goal is to pay a market competitive salary focusing near the median of our pay ranges. However, final offers for all positions will be based on several factors such as experience level, education, skills, work location, and internal pay equity.\n\nThis position offers a comprehensive benefits package, including health, dental, and vision insurance, paid time off, and a 401(k) plan with employer matching, more details available at https://atibenefits.com/.\n\nAdditional Information\n\nAt this time, we are unable to sponsor work visas for this position. Candidates must be authorized to work in the job posting location for this position on a full-time basis without the need for current or future visa sponsorship.",
-            "job_is_remote": false,
-            "job_posted_at": "3 days ago",
-            "job_posted_at_timestamp": 1771977600,
-            "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z",
-            "job_location": "Las Vegas, NV",
-            "job_city": "Las Vegas",
-            "job_state": "Nevada",
-            "job_country": "US",
-            "job_latitude": 36.171563,
-            "job_longitude": -115.13910089999999,
-            "job_benefits": [
-                "paid_time_off",
-                "health_insurance",
-                "dental_coverage"
-            ],
-            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DmCPo2FQ0J1SkhuJhAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-            "job_min_salary": 98395,
-            "job_max_salary": 182735,
-            "job_salary_period": "YEAR",
-            "job_highlights": {
-                "Qualifications": [
-                    "Bachelor\u2019s degree in Information Systems, Computer Science, Data Governance, or related field",
-                    "5+ years of experience in data governance, metadata management, or data strategy roles",
-                    "Proven experience defining and implementing governance technology strategies and roadmaps",
-                    "Expertise with BigID, Alation, or comparable governance and privacy tools",
-                    "Strong collaborator engagement and influence skills, capable of driving alignment across technical and business teams",
-                    "Deep understanding of governance principles, data lifecycle management, and regulatory compliance",
-                    "Superb communication and presentation skills, with the ability to translate technical concepts for executive audiences"
-                ],
-                "Benefits": [
-                    "Robust benefits package",
-                    "Global career opportunities",
-                    "Good Business Good Citizen",
-                    "$98,395 - $182,735 per year",
-                    "Our goal is to pay a market competitive salary focusing near the median of our pay ranges",
-                    "However, final offers for all positions will be based on several factors such as experience level, education, skills, work location, and internal pay equity",
-                    "This position offers a comprehensive benefits package, including health, dental, and vision insurance, paid time off, and a 401(k) plan with employer matching, more details available at https://atibenefits.com/"
-                ],
-                "Responsibilities": [
-                    "The Senior Governance Analyst plays a pivotal role in defining, executing, and advancing Aristocrat\u2019s Enterprise Data Governance Framework",
-                    "This role combines hands-on technical expertise with strategic leadership to develop and drive the roadmap for data governance technologies and services that enable trusted, compliant, and high-quality data across the organization",
-                    "As a senior member of the Governance team, this individual partners with leadership in Data Governance, IT, and Enterprise Data & Analytics to define governance standards, promote data stewardship maturity, and influence enterprise data strategy",
-                    "Lead coordination and delivery for governance technologies (e.g., BigID, Alation), ensuring scalability, integration, and alignment with enterprise data strategies",
-                    "Partner with data platform teams and enterprise architects to identify and implement governance capabilities that improve data discoverability, quality, and compliance",
-                    "Serve as a domain expert and mentor to Governance Analysts, guiding guidelines for metadata management, stewardship, and policy adherence",
-                    "Define and lead the strategic plan for governance tools and processes, evaluating new technologies to drive continuous improvement",
-                    "Oversee metrics and reporting to measure governance adoption, tool utilization, and data quality improvements across the business",
-                    "Collaborate with global data owners, stewards, and compliance teams to ensure governance standards are embedded in business processes and data pipelines",
-                    "Lead collaborator communication and change management initiatives to promote a culture of data accountability and governance maturity",
-                    "Support the alignment of governance frameworks with privacy, security, and regulatory requirements globally"
-                ]
-            },
-            "job_onet_soc": "13111100",
-            "job_onet_job_zone": "5"
-        },
-        {
-            "job_id": "OEnkv-BC6wSjQMcvAAAAAA==",
-            "job_title": "the D Casino - Table Games - Dice Dealer",
-            "employer_name": "The D",
-            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN33cfDgmzKLsQ5pIDKBxshZE4kxFQ_OwRsheR&s=0",
-            "employer_website": "https://www.thed.com",
-            "job_publisher": "Indeed",
-            "job_employment_type": "Full-time",
-            "job_employment_types": [
-                "FULLTIME"
-            ],
-            "job_apply_link": "https://www.indeed.com/viewjob?jk=12ea06271d359934&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-            "job_apply_is_direct": true,
-            "apply_options": [
-                {
-                    "publisher": "Indeed",
-                    "apply_link": "https://www.indeed.com/viewjob?jk=12ea06271d359934&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": true
-                },
-                {
-                    "publisher": "ZipRecruiter",
-                    "apply_link": "https://www.ziprecruiter.com/c/dtlvgroup/Job/The-D-Casino-Table-Games-Dice-Dealer/-in-Las-Vegas,NV?jid=f0dba6e7595675e9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": true
-                },
-                {
-                    "publisher": "Glassdoor",
-                    "apply_link": "https://www.glassdoor.com/job-listing/the-d-casino-table-games-dice-dealer-the-d-casino-hotel-JV_IC1149603_KO0,36_KE37,55.htm?jl=1009990811228&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": true
-                },
-                {
-                    "publisher": "SimplyHired",
-                    "apply_link": "https://www.simplyhired.com/job/uH_COyzUk8V-p4ACbFGkcQ7KmFWO-Y1a0g0sN-mGOVx_YUDmUarulQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Teal",
-                    "apply_link": "https://www.tealhq.com/job/dice-dealer_7ea1a7c588aaefe0b49c7a9e4971acfaec581?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "HiringCafe",
-                    "apply_link": "https://hiring.cafe/viewjob/aeon201hltmb74t8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Adzuna",
-                    "apply_link": "https://www.adzuna.com/details/5591569692?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Jobilize",
-                    "apply_link": "https://www.jobilize.com/job/us-nv-las-vegas-d-casino-table-games-dice-dealer-circa-resort-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "apply_link": "https://www.indeed.com/viewjob?jk=12ea06271d359934",
-                    "is_direct": null,
-                    "publisher": "Indeed"
-                }
-            ],
-            "job_description": "the D Casino & Hotel\n\nJob Title: Dice Dealer\nDepartment: Table Games\n\nJOB SUMMARY:\nDeals or conducts the Dice table game as assigned according to the company\u2019s established rules of play. Sells chips to players upon request, pays winning bets and collects losing bets. Observes all action or player/house protection. Advise guests on playing procedures. May work in dual rated positions in which they function as a (relief) Casino Supervisor for an entire shift on a rotating basis; however, only functions in one of these positions at any one time.\n\nESSENTIAL JOB FUNCTIONS:\n\u2022 Responsible for practicing, supporting and promoting the Company Service Standards at all times\n\u2022 Understand the rules, minimum and maximum bets, payouts and side bet rules for the games they deal\n\u2022 Deal cards to patrons during games of chance\n\u2022 Deal appropriate number of cards out to players\n\u2022 Check players bets\n\u2022 Compare players hands with the house and determine winner\n\u2022 Announce winner and begin new game\n\u2022 Exchange money for chips to be used in games\n\u2022 Conduct other gambling games such as dice, roulette, cards, or keno\n\nQUALIFICATIONS:\n\u2022 Ability to communicate effectively with Guests, Team Members, and Management in both written and verbal form\n\u2022 Ability to work any shift or hours\n\u2022 Must have good math skills\n\u2022 Ability to obtain/renew all government required licenses or certification, specifically a Nevada Gaming license\n\u2022 Must be 21 years of age\n\nEDUCATION and/or EXPERIENCE:\n\u2022 High school diploma or equivalent\n\nPHYSICAL, MENTAL AND WORK ENVIRONMENT:\n\u2022 Requires normal, corrective vision range, the ability to see color and the ability to distinguish letters, numbers and symbols.\n\u2022 Manual dexterity to operate job related equipment.\n\u2022 Work is typically in an area which may be noisy and may contain second hand smoke.\n\nDISCLAIMER:\nThis is not necessarily an exhaustive list of all responsibilities, skills, duties, requirements efforts or working conditions associated with the job. While this is intended to be an accurate reflection of the current job, management reserves the right to revise the current job or to require that other or different tasks be performed when circumstances change (e.g. emergencies, changes in personnel, workload, rush jobs or technical developments).",
+            "job_description": "Job Title: Business Intelligence UWEP\nPosition Type: Internship - For College Credit Hours Only\nSemester: Fall 2025\nLocation: Remote\n\nOverview of the United Soccer League (USL)The United Soccer League (USL) is the heartbeat of American soccer. Impacting more than 200 communities across the United States, the USL is the first and only soccer organization in the United States to build a youth-to-professional pathway for both men and women within one ecosystem. That structure includes three professional leagues: Gainbridge Super League (women), USL Championship (men), and USL League One (men); two pre-professional leagues: USL League Two (men) and the USL W League (women); and two youth platforms: USL Academy and USL Youth. Authentic, vital, and exciting, the USL is dedicated to providing an inclusive and memorable soccer experience for players, fans, and communities across our growing \"soccer nation.\"\n\nProgram Purpose\n\nUnder the direction and guidance of USL Executives and Leaders (mentors), the USL Work Experience Program (UWEP) provides students with the unique opportunity to gain practical sport management experience in a professional sports league setting. By working on various strategic projects and initiatives, UWEP participants will gain hands on experience with league staff as well as member teams.\n\nParticipants are tasked with and responsible for partnering within a specialized department but will interact with all league departments across the organization including business development, digital, club services, analytics, and more; with the ultimate goal of providing students with well-rounded practical work experience in sports.\n\nPosition Purpose\n\nUnder the direction of the USL Technology & Data Strategy team, the Business Intelligence UWEP supports the department by assisting with maintaining and developing league-wide dashboards. The Participant will assume an integral role in the production of data analytics and distribution of the results.\n\nDuties and Responsibilities\n\nSpecific duties include, but are not limited to:\n\u2022 Assist with the routine collection of data and updating of established Tableau dashboards.\n\u2022 Build Tableau dashboards to track performance in key metrics towards league goals and initiatives.\n\u2022 Identify opportunities to implement procedures for new data collection processes and/or data reporting.\n\u2022 Translate data across key revenue-driving verticals (e.g., ticketing, corporate partnerships, and consumer products) into targeted analyses, providing insights and recommendations to critical organizational stakeholders that lead to actionable business decisions.\n\u2022 Generate new analysis of match performance data to unlock potential commercial value driven from our partnerships with Stats Perform and Spiideo.\n\u2022 Support ad-hoc requests for data; build reports, visualizations, executive dashboards, and presentations.\n\u2022 Act in a quality assurance role to ensure dashboards/reports are functioning correctly and to provide any recommendations for improvements.\n\u2022 Assist other departments and operational areas as requested to provide a well-rounded overview of working in sports.\n\nQualifications\n\u2022 Participants must be working towards a bachelor\u2019s or master\u2019s degree in a related field and/or training and must certify that they are able to receive college course credit from an accredited college or university for their participation.\n\u2022 Solid computer skills and proficiency with MS Word, Excel, PowerPoint, Outlook are a must.\n\u2022 Excellent verbal and written communication skills are required.\n\u2022 Positive attitude and strong work ethic are a must. Must have a \u201cteam-first\u201d mentality with an eagerness to learn.\n\u2022 Should be extremely organized and detail oriented, with a focus on quality and consistency.\n\u2022 While completing the USL Work Experience Program remotely, participants must have access to a computer or laptop with reliable internet connection.\n\u2022 Familiarity of Tableau, or another data visualization software.\n\u2022 Familiarity of SQL, or other programming languages.\n\nWe are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, age, disability, gender identity, marital or veteran status, or any other protected class.\n\nJob Title: Business Intelligence UWEP\nPosition Type: Internship - For College Credit Hours Only\nSemester: Fall 2025\nLocation: Remote\n\nOverview of the United Soccer League (USL)The United Soccer League (USL) is the heartbeat of American soccer. Impacting more than 200 communities across the United States, the USL is the first and only soccer organization in the United States to build a youth-to-professional pathway for both men and women within one ecosystem. That structure includes three professional leagues: Gainbridge Super League (women), USL Championship (men), and USL League One (men); two pre-professional leagues: USL League Two (men) and the USL W League (women); and two youth platforms: USL Academy and USL Youth. Authentic, vital, and exciting, the USL is dedicated to providing an inclusive and memorable soccer experience for players, fans, and communities across our growing \"soccer nation.\"\n\nProgram Purpose\n\nUnder the direction and guidance of USL Executives and Leaders (mentors), the USL Work Experience Program (UWEP) provides students with the unique opportunity to gain practical sport management experience in a professional sports league setting. By working on various strategic projects and initiatives, UWEP participants will gain hands on experience with league staff as well as member teams.\n\nParticipants are tasked with and responsible for partnering within a specialized department but will interact with all league departments across the organization including business development, digital, club services, analytics, and more; with the ultimate goal of providing students with well-rounded practical work experience in sports.\n\nPosition Purpose\n\nUnder the direction of the USL Technology & Data Strategy team, the Business Intelligence UWEP supports the department by assisting with maintaining and developing league-wide dashboards. The Participant will assume an integral role in the production of data analytics and distribution of the results.\n\nDuties and Responsibilities\n\nSpecific duties include, but are not limited to:\n\u2022 Assist with the routine collection of data and updating of established Tableau dashboards.\n\u2022 Build Tableau dashboards to track performance in key metrics towards league goals and initiatives.\n\u2022 Identify opportunities to implement procedures for new data collection processes and/or data reporting.\n\u2022 Translate data across key revenue-driving verticals (e.g., ticketing, corporate partnerships, and consumer products) into targeted analyses, providing insights and recommendations to critical organizational stakeholders that lead to actionable business decisions.\n\u2022 Generate new analysis of match performance data to unlock potential commercial value driven from our partnerships with Stats Perform and Spiideo.\n\u2022 Support ad-hoc requests for data; build reports, visualizations, executive dashboards, and presentations.\n\u2022 Act in a quality assurance role to ensure dashboards/reports are functioning correctly and to provide any recommendations for improvements.\n\u2022 Assist other departments and operational areas as requested to provide a well-rounded overview of working in sports.\n\nQualifications\n\u2022 Participants must be working towards a bachelor\u2019s or master\u2019s degree in a related field and/or training and must certify that they are able to receive college course credit from an accredited college or university for their participation.\n\u2022 Solid computer skills and proficiency with MS Word, Excel, PowerPoint, Outlook are a must.\n\u2022 Excellent verbal and written communication skills are required.\n\u2022 Positive attitude and strong work ethic are a must. Must have a \u201cteam-first\u201d mentality with an eagerness to learn.\n\u2022 Should be extremely organized and detail oriented, with a focus on quality and consistency.\n\u2022 While completing the USL Work Experience Program remotely, participants must have access to a computer or laptop with reliable internet connection.\n\u2022 Familiarity of Tableau, or another data visualization software.\n\u2022 Familiarity of SQL, or other programming languages.\n\nWe are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, age, disability, gender identity, marital or veteran status, or any other protected class.",
             "job_is_remote": false,
             "job_posted_at": null,
             "job_posted_at_timestamp": null,
@@ -522,307 +161,199 @@
             "job_latitude": 36.171563,
             "job_longitude": -115.13910089999999,
             "job_benefits": null,
-            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DOEnkv-BC6wSjQMcvAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DJC7f5JWRMznPy3JOAAAAAA%3D%3D&vssid=jobs-detail-viewer",
             "job_salary": null,
             "job_min_salary": null,
             "job_max_salary": null,
             "job_salary_period": null,
             "job_highlights": {
                 "Qualifications": [
-                    "Ability to communicate effectively with Guests, Team Members, and Management in both written and verbal form",
-                    "Ability to work any shift or hours",
-                    "Must have good math skills",
-                    "Ability to obtain/renew all government required licenses or certification, specifically a Nevada Gaming license",
-                    "Must be 21 years of age",
-                    "High school diploma or equivalent",
-                    "Requires normal, corrective vision range, the ability to see color and the ability to distinguish letters, numbers and symbols",
-                    "While this is intended to be an accurate reflection of the current job, management reserves the right to revise the current job or to require that other or different tasks be performed when circumstances change (e.g. emergencies, changes in personnel, workload, rush jobs or technical developments)"
+                    "Participants must be working towards a bachelor\u2019s or master\u2019s degree in a related field and/or training and must certify that they are able to receive college course credit from an accredited college or university for their participation",
+                    "Solid computer skills and proficiency with MS Word, Excel, PowerPoint, Outlook are a must",
+                    "Excellent verbal and written communication skills are required",
+                    "Positive attitude and strong work ethic are a must",
+                    "Must have a \u201cteam-first\u201d mentality with an eagerness to learn",
+                    "Should be extremely organized and detail oriented, with a focus on quality and consistency",
+                    "While completing the USL Work Experience Program remotely, participants must have access to a computer or laptop with reliable internet connection",
+                    "Familiarity of Tableau, or another data visualization software",
+                    "Familiarity of SQL, or other programming languages",
+                    "Participants must be working towards a bachelor\u2019s or master\u2019s degree in a related field and/or training and must certify that they are able to receive college course credit from an accredited college or university for their participation",
+                    "Solid computer skills and proficiency with MS Word, Excel, PowerPoint, Outlook are a must",
+                    "Excellent verbal and written communication skills are required",
+                    "Positive attitude and strong work ethic are a must",
+                    "Must have a \u201cteam-first\u201d mentality with an eagerness to learn",
+                    "Should be extremely organized and detail oriented, with a focus on quality and consistency",
+                    "While completing the USL Work Experience Program remotely, participants must have access to a computer or laptop with reliable internet connection",
+                    "Familiarity of Tableau, or another data visualization software",
+                    "Familiarity of SQL, or other programming languages"
+                ],
+                "Benefits": [
+                    "Semester: Fall 2025"
                 ],
                 "Responsibilities": [
-                    "Deals or conducts the Dice table game as assigned according to the company\u2019s established rules of play",
-                    "Sells chips to players upon request, pays winning bets and collects losing bets",
-                    "Observes all action or player/house protection",
-                    "Advise guests on playing procedures",
-                    "May work in dual rated positions in which they function as a (relief) Casino Supervisor for an entire shift on a rotating basis; however, only functions in one of these positions at any one time",
-                    "Responsible for practicing, supporting and promoting the Company Service Standards at all times",
-                    "Understand the rules, minimum and maximum bets, payouts and side bet rules for the games they deal",
-                    "Deal cards to patrons during games of chance",
-                    "Deal appropriate number of cards out to players",
-                    "Check players bets",
-                    "Compare players hands with the house and determine winner",
-                    "Announce winner and begin new game",
-                    "Exchange money for chips to be used in games",
-                    "Conduct other gambling games such as dice, roulette, cards, or keno",
-                    "Manual dexterity to operate job related equipment",
-                    "Work is typically in an area which may be noisy and may contain second hand smoke"
+                    "By working on various strategic projects and initiatives, UWEP participants will gain hands on experience with league staff as well as member teams",
+                    "Participants are tasked with and responsible for partnering within a specialized department but will interact with all league departments across the organization including business development, digital, club services, analytics, and more; with the ultimate goal of providing students with well-rounded practical work experience in sports",
+                    "Under the direction of the USL Technology & Data Strategy team, the Business Intelligence UWEP supports the department by assisting with maintaining and developing league-wide dashboards",
+                    "The Participant will assume an integral role in the production of data analytics and distribution of the results",
+                    "Assist with the routine collection of data and updating of established Tableau dashboards",
+                    "Build Tableau dashboards to track performance in key metrics towards league goals and initiatives",
+                    "Identify opportunities to implement procedures for new data collection processes and/or data reporting",
+                    "Translate data across key revenue-driving verticals (e.g., ticketing, corporate partnerships, and consumer products) into targeted analyses, providing insights and recommendations to critical organizational stakeholders that lead to actionable business decisions",
+                    "Generate new analysis of match performance data to unlock potential commercial value driven from our partnerships with Stats Perform and Spiideo",
+                    "Support ad-hoc requests for data; build reports, visualizations, executive dashboards, and presentations",
+                    "Act in a quality assurance role to ensure dashboards/reports are functioning correctly and to provide any recommendations for improvements",
+                    "Assist other departments and operational areas as requested to provide a well-rounded overview of working in sports",
+                    "By working on various strategic projects and initiatives, UWEP participants will gain hands on experience with league staff as well as member teams",
+                    "Participants are tasked with and responsible for partnering within a specialized department but will interact with all league departments across the organization including business development, digital, club services, analytics, and more; with the ultimate goal of providing students with well-rounded practical work experience in sports",
+                    "Under the direction of the USL Technology & Data Strategy team, the Business Intelligence UWEP supports the department by assisting with maintaining and developing league-wide dashboards",
+                    "The Participant will assume an integral role in the production of data analytics and distribution of the results",
+                    "Assist with the routine collection of data and updating of established Tableau dashboards",
+                    "Build Tableau dashboards to track performance in key metrics towards league goals and initiatives",
+                    "Identify opportunities to implement procedures for new data collection processes and/or data reporting",
+                    "Translate data across key revenue-driving verticals (e.g., ticketing, corporate partnerships, and consumer products) into targeted analyses, providing insights and recommendations to critical organizational stakeholders that lead to actionable business decisions",
+                    "Generate new analysis of match performance data to unlock potential commercial value driven from our partnerships with Stats Perform and Spiideo",
+                    "Support ad-hoc requests for data; build reports, visualizations, executive dashboards, and presentations",
+                    "Act in a quality assurance role to ensure dashboards/reports are functioning correctly and to provide any recommendations for improvements",
+                    "Assist other departments and operational areas as requested to provide a well-rounded overview of working in sports"
                 ]
             },
-            "job_onet_soc": "39301100",
-            "job_onet_job_zone": "2"
+            "job_onet_soc": "15119900",
+            "job_onet_job_zone": "4"
         },
         {
-            "job_id": "kxCYEkJMFoFPViE2AAAAAA==",
-            "job_title": "Table Games Assistant Shift Manager - Red Rock",
-            "employer_name": "Station Casinos",
-            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr6eRROa7l_i4QzWUnrQK6KhgqFlQq2B5xt05F&s=0",
-            "employer_website": "https://stationcasinos.com",
-            "job_publisher": "LinkedIn",
+            "job_id": "zNg_0-cB3-7v27rKAAAAAA==",
+            "job_title": "Business Analyst Intern",
+            "employer_name": "Maximus",
+            "employer_logo": null,
+            "employer_website": "https://maximus.com",
+            "job_publisher": "EQuest Jobs",
             "job_employment_type": "Full-time",
             "job_employment_types": [
                 "FULLTIME"
             ],
-            "job_apply_link": "https://www.linkedin.com/jobs/view/table-games-assistant-shift-manager-red-rock-at-station-casinos-4377497221?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_link": "https://jobs.equest.com/jobs/NV/maximus/business-analyst-intern-444844704.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
             "job_apply_is_direct": false,
             "apply_options": [
                 {
-                    "publisher": "LinkedIn",
-                    "apply_link": "https://www.linkedin.com/jobs/view/table-games-assistant-shift-manager-red-rock-at-station-casinos-4377497221?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "publisher": "EQuest Jobs",
+                    "apply_link": "https://jobs.equest.com/jobs/NV/maximus/business-analyst-intern-444844704.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
                     "is_direct": false
                 },
                 {
-                    "publisher": "ZipRecruiter",
-                    "apply_link": "https://www.ziprecruiter.com/c/Station-Casinos/Job/Table-Games-Assistant-Shift-Manager-Red-Rock/-in-Las-Vegas,NV?jid=78165474c33a125b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": true
-                },
-                {
-                    "publisher": "Indeed",
-                    "apply_link": "https://www.indeed.com/viewjob?jk=fd22267489ed6a65&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Teal",
-                    "apply_link": "https://www.tealhq.com/job/table-games-assistant-shift-manager_7ea1a02dc06fadc1d5a27a1f881b81ebc3353?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "HiringCafe",
-                    "apply_link": "https://hiring.cafe/viewjob/2l595yliwjdp4bcq?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "SimplyHired",
-                    "apply_link": "https://www.simplyhired.com/job/OoPt8Nd1_cBGaSjb28tK2XrorzVCUVnm0DhRL-Veerg1TClXwjfH8A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Breakroom",
-                    "apply_link": "https://www.breakroom.cc/en-us/jobs/listing/29550991-station-casinos-table-games-assistant-shift-manager-red-rock?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Talent.com",
-                    "apply_link": "https://www.talent.com/view?id=564863253138709143&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "apply_link": "https://www.linkedin.com/jobs/view/table-games-assistant-shift-manager-red-rock-at-station-casinos-4377497221",
+                    "apply_link": "https://jobs.equest.com/jobs/NV/maximus/business-analyst-intern-444844704.html",
                     "is_direct": null,
-                    "publisher": "LinkedIn"
+                    "publisher": "EQuest Jobs"
                 }
             ],
-            "job_description": "Job Description\n\nDescription:\n\nResponsible for Company assets, rules, policies and procedures related to gaming and casino credit activity and ensuring that all shifts are consistent in adhering to rules etc. Review budgets and supervise all gaming schedules to accommodate Guests. Analyze gaming percentages, comps, and casino marketing activities.\n\nQualifications:\n\nAbility to communicate effectively with Guests, Team Members and Management. Strong Knowledge of all Casino Table Games. Minimum of 10 years Casino games experience. Minimum 5 years\u2019 managerial experience with 3 of the 5 years as Pit Manager or above. Experience in handling and issuing credit. Ability to work any shift and handle multiple tasks.",
+            "job_description": "Essential Duties and Responsibilities: - Provide data analysis support to project and operations management. - Perform routine administrative functions. - Assist in special projects across various operational departments. - Work on assignments that are moderately difficult and escalate issues to management. - Assist with ad-hoc reporting. The Business Analyst Intern is responsible for assisting in the development of all formal process documentation which includes process models, business requirements traceability matrixes, and use case documentation. The position facilitates discussion among process stakeholders in order to elicit, analyze, communicate and validate requirements, process design, and business intelligence needs. Preference for Junior, Senior and current graduate students for this remote US internship. - Perform impact assessments on process design, business requirements, and key process performance metrics that may result from proposed changes in policy or operational need. - Evaluates the impact of systems and operation workflow changes to production reports and associated data analyses. - Identify key measures and indicators of process performance used in process - centric reporting, how they will be presented to process stakeholders, and the actions needed to improve or correct performance. - Understand and interpret reports and data and applies appropriate analytical technique and derives meaning and insight from resulting measurement. - Establish effective and efficient formal and informal dialogue with systems analysts and subject matter experts to facilitate the understanding, clarification, and implementation of requirements and reporting needs in an agile development environment. - Determine how a process should work and how changes in conditions, operations, systems, and other factors will affect outcomes. - Oversee the transformation of policy and operational needs into structured business requirements. - Ensure all required process documentation is accurate, correctly detailed, and kept up-to-date and organized in the appropriate repository. - Analyze data and other information in order to conceptualize and define process problems and/or improvement opportunities. - Define data requirements then gather and validate information, applying judgment and statistical tests - Write and make presentations to clients and other staff, often requiring clear and persuasive explanation of complex processes to a non-technical audience - Provide guidance, background information, and assistance to management and other staff on the interpretation and effective use of process models and other analysis artifacts. Minimum Requirements - Currently enrolled in an accredited college or university and pursuing a college degree in a related field. - Must have completed a minimum of 2 years of coursework. - Skilled in standard computer applications and platforms such as Outlook and MS Office Suite, PowerPoint, and Excel. - Demonstrated ability to juggle multiple priorities with superior attention to detail. - Ability to perform comfortably in a fast-paced, deadline-oriented work environment. - Strong interpersonal communication, teamwork, and customer service skills. The Business Analyst is responsible for assisting in the development of all formal process documentation which includes process models, business requirements traceability matrixes, and use case documentation. The position facilitates discussion among process stakeholders in order to elicit, analyze, communicate and validate requirements, process design, and business intelligence needs. - Perform impact assessments on process design, business requirements, and key process performance metrics that may result from proposed changes in policy or operational need. - Evaluates the impact of systems and operation workflow changes to production reports and associated data analyses. - Identify key measures and indicators of process performance used in process - centric reporting, how they will be presented to process stakeholders, and the actions needed to improve or correct performance. - Understand and interpret reports and data and applies appropriate analytical technique and derives meaning and insight from resulting measurement. - Establish effective and efficient formal and informal dialogue with systems analysts and subject matter experts to facilitate the understanding, clarification, and implementation of requirements and reporting needs in an agile development environment. - Determine how a process should work and how changes in conditions, operations, systems, and other factors will affect outcomes. - Oversee the transformation of policy and operational needs into structured business requirements. - Ensure all required process documentation is accurate, correctly detailed, and kept up-to-date and organized in the appropriate repository. - Analyze data and other information in order to conceptualize and define process problems and/or improvement opportunities. - Define data requirements then gather and validate information, applying judgment and statistical tests - Write and make presentations to clients and other staff, often requiring clear and persuasive explanation of complex processes to a non-technical audience - Provide guidance, background information, and assistance to management and other staff on the interpretation and effective use of process models and other analysis artifacts. EEO Statement Maximus is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, age, national origin, disability, veteran status, genetic information and other legally protected characteristics. Pay Transparency Maximus compensation is based on various factors including but not limited to job location, a candidate's education, training, experience, expected quality and quantity of work, required travel (if any), external market and internal value analysis including seniority and merit systems, as well as internal pay alignment. Annual salary is just one component of Maximus's total compensation package. Other rewards may include short- and long-term incentives as well as program-specific awards. Additionally, Maximus provides a variety of benefits to employees, including health insurance coverage, life and disability insurance, a retirement savings plan, paid holidays and paid time off. Compensation ranges may differ based on contract value but will be commensurate with job duties and relevant work experience. An applicant's salary history will not be used in determining compensation. Maximus will comply with regulatory minimum wage rates and exempt salary thresholds in all instances. Accommodations Maximus provides reasonable accommodations to individuals requiring assistance during any phase of the employment process due to a disability, medical condition, or physical or mental impairment. If you require assistance at any stage of the employment process-including accessing job postings, completing assessments, or participating in interviews, -please contact People Operations at applicantaccom@maximus.com. Minimum Salary $ 20.00 Maximum Salary $ 25.00",
             "job_is_remote": false,
-            "job_posted_at": "4 days ago",
-            "job_posted_at_timestamp": 1771891200,
-            "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
+            "job_posted_at": "9 days ago",
+            "job_posted_at_timestamp": 1771459200,
+            "job_posted_at_datetime_utc": "2026-02-19T00:00:00.000Z",
             "job_location": "Las Vegas, NV",
             "job_city": "Las Vegas",
             "job_state": "Nevada",
             "job_country": "US",
             "job_latitude": 36.171563,
             "job_longitude": -115.13910089999999,
-            "job_benefits": null,
-            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DkxCYEkJMFoFPViE2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_benefits": [
+                "health_insurance",
+                "dental_coverage",
+                "paid_time_off"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzNg_0-cB3-7v27rKAAAAAA%3D%3D&vssid=jobs-detail-viewer",
             "job_salary": null,
             "job_min_salary": null,
             "job_max_salary": null,
             "job_salary_period": null,
             "job_highlights": {
                 "Qualifications": [
-                    "Ability to communicate effectively with Guests, Team Members and Management",
-                    "Strong Knowledge of all Casino Table Games",
-                    "Minimum of 10 years Casino games experience",
-                    "Minimum 5 years\u2019 managerial experience with 3 of the 5 years as Pit Manager or above",
-                    "Experience in handling and issuing credit",
-                    "Ability to work any shift and handle multiple tasks"
+                    "Preference for Junior, Senior and current graduate students for this remote US internship",
+                    "Minimum Requirements - Currently enrolled in an accredited college or university and pursuing a college degree in a related field",
+                    "Must have completed a minimum of 2 years of coursework",
+                    "Skilled in standard computer applications and platforms such as Outlook and MS Office Suite, PowerPoint, and Excel",
+                    "Demonstrated ability to juggle multiple priorities with superior attention to detail",
+                    "Ability to perform comfortably in a fast-paced, deadline-oriented work environment",
+                    "Strong interpersonal communication, teamwork, and customer service skills",
+                    "Establish effective and efficient formal and informal dialogue with systems analysts and subject matter experts to facilitate the understanding, clarification, and implementation of requirements and reporting needs in an agile development environment",
+                    "Define data requirements then gather and validate information, applying judgment and statistical tests - Write and make presentations to clients and other staff, often requiring clear and persuasive explanation of complex processes to a non-technical audience - Provide guidance, background information, and assistance to management and other staff on the interpretation and effective use of process models and other analysis artifacts"
+                ],
+                "Benefits": [
+                    "Annual salary is just one component of Maximus's total compensation package",
+                    "Other rewards may include short- and long-term incentives as well as program-specific awards",
+                    "Additionally, Maximus provides a variety of benefits to employees, including health insurance coverage, life and disability insurance, a retirement savings plan, paid holidays and paid time off",
+                    "Compensation ranges may differ based on contract value but will be commensurate with job duties and relevant work experience"
                 ],
                 "Responsibilities": [
-                    "Responsible for Company assets, rules, policies and procedures related to gaming and casino credit activity and ensuring that all shifts are consistent in adhering to rules etc",
-                    "Review budgets and supervise all gaming schedules to accommodate Guests",
-                    "Analyze gaming percentages, comps, and casino marketing activities"
+                    "Essential Duties and Responsibilities: - Provide data analysis support to project and operations management",
+                    "Perform routine administrative functions",
+                    "Assist in special projects across various operational departments",
+                    "Work on assignments that are moderately difficult and escalate issues to management",
+                    "Assist with ad-hoc reporting",
+                    "The Business Analyst Intern is responsible for assisting in the development of all formal process documentation which includes process models, business requirements traceability matrixes, and use case documentation",
+                    "The position facilitates discussion among process stakeholders in order to elicit, analyze, communicate and validate requirements, process design, and business intelligence needs",
+                    "Perform impact assessments on process design, business requirements, and key process performance metrics that may result from proposed changes in policy or operational need",
+                    "Evaluates the impact of systems and operation workflow changes to production reports and associated data analyses",
+                    "Identify key measures and indicators of process performance used in process - centric reporting, how they will be presented to process stakeholders, and the actions needed to improve or correct performance",
+                    "Understand and interpret reports and data and applies appropriate analytical technique and derives meaning and insight from resulting measurement",
+                    "Establish effective and efficient formal and informal dialogue with systems analysts and subject matter experts to facilitate the understanding, clarification, and implementation of requirements and reporting needs in an agile development environment",
+                    "Determine how a process should work and how changes in conditions, operations, systems, and other factors will affect outcomes",
+                    "Oversee the transformation of policy and operational needs into structured business requirements",
+                    "Ensure all required process documentation is accurate, correctly detailed, and kept up-to-date and organized in the appropriate repository",
+                    "Analyze data and other information in order to conceptualize and define process problems and/or improvement opportunities",
+                    "Define data requirements then gather and validate information, applying judgment and statistical tests - Write and make presentations to clients and other staff, often requiring clear and persuasive explanation of complex processes to a non-technical audience - Provide guidance, background information, and assistance to management and other staff on the interpretation and effective use of process models and other analysis artifacts",
+                    "The Business Analyst is responsible for assisting in the development of all formal process documentation which includes process models, business requirements traceability matrixes, and use case documentation",
+                    "The position facilitates discussion among process stakeholders in order to elicit, analyze, communicate and validate requirements, process design, and business intelligence needs",
+                    "Perform impact assessments on process design, business requirements, and key process performance metrics that may result from proposed changes in policy or operational need",
+                    "Evaluates the impact of systems and operation workflow changes to production reports and associated data analyses",
+                    "Identify key measures and indicators of process performance used in process - centric reporting, how they will be presented to process stakeholders, and the actions needed to improve or correct performance",
+                    "Understand and interpret reports and data and applies appropriate analytical technique and derives meaning and insight from resulting measurement",
+                    "Determine how a process should work and how changes in conditions, operations, systems, and other factors will affect outcomes",
+                    "Oversee the transformation of policy and operational needs into structured business requirements",
+                    "Ensure all required process documentation is accurate, correctly detailed, and kept up-to-date and organized in the appropriate repository",
+                    "Analyze data and other information in order to conceptualize and define process problems and/or improvement opportunities"
                 ]
             },
-            "job_onet_soc": "11907100",
-            "job_onet_job_zone": "3"
+            "job_onet_soc": "13111100",
+            "job_onet_job_zone": "5"
         },
         {
-            "job_id": "5HS60IiNlVrddv7qAAAAAA==",
-            "job_title": "Casino Host",
-            "employer_name": "Boyd Gaming",
-            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwGovlUxVZEHaPe-BZk670dfGFvOI_yQDA-mue&s=0",
-            "employer_website": "https://www.boydgaming.com",
-            "job_publisher": "ZipRecruiter",
-            "job_employment_type": "Full-time",
+            "job_id": "2pWpK1JCNI0-X-UpAAAAAA==",
+            "job_title": "Power BI Intern",
+            "employer_name": "Reli Group Inc",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJjDZclc_id8zeA7n4HDvqLXG9R-wtcoV2iJ7L&s=0",
+            "employer_website": "https://www.religroupinc.com",
+            "job_publisher": "Adzuna",
+            "job_employment_type": "Full-time, Contractor, and Internship",
             "job_employment_types": [
-                "FULLTIME"
+                "FULLTIME",
+                "CONTRACTOR",
+                "INTERN"
             ],
-            "job_apply_link": "https://www.ziprecruiter.com/c/Boyd-Gaming/Job/Casino-Host/-in-North-Las-Vegas,NV?jid=b9a73e8c8213fdf2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-            "job_apply_is_direct": true,
-            "apply_options": [
-                {
-                    "publisher": "ZipRecruiter",
-                    "apply_link": "https://www.ziprecruiter.com/c/Boyd-Gaming/Job/Casino-Host/-in-North-Las-Vegas,NV?jid=b9a73e8c8213fdf2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": true
-                },
-                {
-                    "publisher": "Smart Recruiters Jobs",
-                    "apply_link": "https://jobs.smartrecruiters.com/BoydGaming/3743990011844106-casino-host?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Indeed",
-                    "apply_link": "https://www.indeed.com/viewjob?jk=af34fc244b8b02be&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "LinkedIn",
-                    "apply_link": "https://www.linkedin.com/jobs/view/casino-host-at-aliante-casino-%2B-hotel-%2B-spa-4377873647?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Glassdoor",
-                    "apply_link": "https://www.glassdoor.com/job-listing/casino-host-boyd-gaming-JV_IC1149609_KO0,11_KE12,23.htm?jl=1010044988002&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": true
-                },
-                {
-                    "publisher": "BeBee",
-                    "apply_link": "https://us.bebee.com/job/2e0f2fe205fe88ac6933566000916274?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "SimplyHired",
-                    "apply_link": "https://www.simplyhired.com/job/d9fvM2A-AN-hajvIcQ_lEqd64Jwpdsq_6imOEFn6mcLlChNfuXC-bQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Breakroom",
-                    "apply_link": "https://www.breakroom.cc/en-us/jobs/listing/29589348-boyd-gaming-casino-host-7300-n-aliante-pkwy-north-las-vegas?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "apply_link": "https://www.ziprecruiter.com/c/Boyd-Gaming/Job/Casino-Host/-in-North-Las-Vegas,NV?jid=b9a73e8c8213fdf2",
-                    "is_direct": null,
-                    "publisher": "ZipRecruiter"
-                }
-            ],
-            "job_description": "Company Description\n\nBoyd Gaming Corporation has been successful in gaming jurisdiction in which we operate in the United States and is one of the premier casino entertainment companies in the United States. Never content to rest upon our successes, we will continue to evolve and retain a position of leadership in our industry.\n\nOur past success, our current business philosophies and our sound business planning, combine to position Boyd Gaming Corporation to maximize value for our shareholders, our team members and our communities.\n\nJob Description\n\nResponsible for the maintenance of current database customers by providing exceptional guest service. Maintain and cultivate relationships, increase trip frequency, and guest loyalty or premium players. Ensure customer retention and repeat business through telemarketing, written correspondence, direct contact, and participation in off- and off-site events.\n\u2022 Develop/Maintain a base of assigned players and ensure each receives personal attention and quality service, in accordance with the company's established strategies and guidelines\n\u2022 Recruit/Maintain high-level players through a variety of activities including, but not limited to; direct mail, telemarketing, referrals, guest visitation, and on/off-site events.\n\u2022 Continuously develop and sustain personalized relationships with guests, with focus on premium players.\n\u2022 Respond to guest requests and inquiries or concerns in a calm, prompt, and courteous manner.\n\u2022 Issue complimentary services consistent with company and department policies.\n\u2022 Participate in player development and marketing activities and events to ensure development of one-on-one relationships and to cultivate guest loyalty.\n\u2022 Represent the company at both on- and off-site events, generating new and maintaining current guest relationships.\n\u2022 Miscellaneous duties as assigned.\n\nQualifications\n\u2022 Bachelor's Degree or equivalent work experience in a related field.\n\u2022 Three years experience in customer service, preferably in the gaming industry.\n\u2022 Excellent oral and written skills, leadership skills, as well as customer service and interpersonal skills.\n\u2022 Must be flexible in work schedule.\n\u2022 Proficiency in Microsoft Office applications, and player tracking systems. Salesforce experience a plus\n\u2022 Must be able to obtain/maintain any necessary certifications and/or licenses as required by local gaming regulations.\n\nAdditional Information\n\nAll your information will be kept confidential according to EEO guidelines.\n\nBoyd Gaming is proud to be an Equal Opportunity Employer and does not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state, or local protected class.",
-            "job_is_remote": false,
-            "job_posted_at": "4 days ago",
-            "job_posted_at_timestamp": 1771891200,
-            "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
-            "job_location": "North Las Vegas, NV",
-            "job_city": "North Las Vegas",
-            "job_state": "Nevada",
-            "job_country": "US",
-            "job_latitude": 36.1988592,
-            "job_longitude": -115.1175013,
-            "job_benefits": null,
-            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5HS60IiNlVrddv7qAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-            "job_salary": null,
-            "job_min_salary": null,
-            "job_max_salary": null,
-            "job_salary_period": null,
-            "job_highlights": {
-                "Qualifications": [
-                    "Bachelor's Degree or equivalent work experience in a related field",
-                    "Three years experience in customer service, preferably in the gaming industry",
-                    "Excellent oral and written skills, leadership skills, as well as customer service and interpersonal skills",
-                    "Must be flexible in work schedule",
-                    "Proficiency in Microsoft Office applications, and player tracking systems",
-                    "Must be able to obtain/maintain any necessary certifications and/or licenses as required by local gaming regulations"
-                ],
-                "Responsibilities": [
-                    "Responsible for the maintenance of current database customers by providing exceptional guest service",
-                    "Maintain and cultivate relationships, increase trip frequency, and guest loyalty or premium players",
-                    "Ensure customer retention and repeat business through telemarketing, written correspondence, direct contact, and participation in off- and off-site events",
-                    "Develop/Maintain a base of assigned players and ensure each receives personal attention and quality service, in accordance with the company's established strategies and guidelines",
-                    "Recruit/Maintain high-level players through a variety of activities including, but not limited to; direct mail, telemarketing, referrals, guest visitation, and on/off-site events",
-                    "Continuously develop and sustain personalized relationships with guests, with focus on premium players",
-                    "Respond to guest requests and inquiries or concerns in a calm, prompt, and courteous manner",
-                    "Issue complimentary services consistent with company and department policies",
-                    "Participate in player development and marketing activities and events to ensure development of one-on-one relationships and to cultivate guest loyalty",
-                    "Represent the company at both on- and off-site events, generating new and maintaining current guest relationships",
-                    "Miscellaneous duties as assigned"
-                ]
-            },
-            "job_onet_soc": "35903100",
-            "job_onet_job_zone": "2"
-        },
-        {
-            "job_id": "ogBwQJyPFxktc_l4AAAAAA==",
-            "job_title": "Senior Backend Engineer",
-            "employer_name": "Gambling.com Group",
-            "employer_logo": null,
-            "employer_website": "https://www.gdcgroup.com",
-            "job_publisher": "Monster",
-            "job_employment_type": "Full-time",
-            "job_employment_types": [
-                "FULLTIME"
-            ],
-            "job_apply_link": "https://www.monster.com/job-openings/senior-backend-engineer-las-vegas-nv--a6187768-25e0-4a16-a491-233d6e7b0053?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_link": "https://www.adzuna.com/details/5528344835?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
             "job_apply_is_direct": false,
             "apply_options": [
                 {
-                    "publisher": "Monster",
-                    "apply_link": "https://www.monster.com/job-openings/senior-backend-engineer-las-vegas-nv--a6187768-25e0-4a16-a491-233d6e7b0053?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "publisher": "Adzuna",
+                    "apply_link": "https://www.adzuna.com/details/5528344835?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
                     "is_direct": false
                 },
                 {
-                    "publisher": "Glassdoor",
-                    "apply_link": "https://www.glassdoor.com/job-listing/senior-backend-engineer-meltwater-JV_IC1149603_KO0,23_KE24,33.htm?jl=1010040007950&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "publisher": "Snagajob",
+                    "apply_link": "https://www.snagajob.com/jobs/1140557762?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
                     "is_direct": false
                 },
                 {
-                    "publisher": "Startup Jobs",
-                    "apply_link": "https://startup.jobs/senior-backend-engineer-meltwater-7767748?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Jooble",
-                    "apply_link": "https://jooble.org/jdp/-8175852640370438080?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Career.io",
-                    "apply_link": "https://career.io/job/senior-backend-engineer-las-vegas-gamblingcom-group-faa21e8476d065ad076b9b4b84752a83?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": true
-                },
-                {
-                    "publisher": "LinkedIn",
-                    "apply_link": "https://www.linkedin.com/jobs/view/senior-backend-engineer-at-meltwater-4374330959?refId=yoNXXVD1kEkU4/d9AoD7GA%3D%3D&trackingId=dbzbu3FM%2BvEPqV28LQOgUA%3D%3D&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Experteer",
-                    "apply_link": "https://us.experteer.com/career/view-jobs/senior-backend-engineer-las-vegas-nv-usa-56022905?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "BeBee",
-                    "apply_link": "https://us.bebee.com/job/8a2653d9f90c914974a0cd129a8de075?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "apply_link": "https://www.monster.com/job-openings/senior-backend-engineer-las-vegas-nv--a6187768-25e0-4a16-a491-233d6e7b0053",
+                    "apply_link": "https://www.adzuna.com/details/5528344835",
                     "is_direct": null,
-                    "publisher": "Monster"
+                    "publisher": "Adzuna"
                 }
             ],
-            "job_description": "Gambling.com Group (Nasdaq: GAMB) is a multi-award winning provider of marketing and sports data services looking for exceptional talent interested in the fast-paced, high-growth online gambling industry. The company operates a portfolio of renowned websites and brands \u2013 including flagship site Gambling.com and sports betting site Bookies.com as well as iGaming-focused sites Casinos.com, BonusFinder.com and Freebets.com.\n\nIn addition to its marketing operations, Gambling.com Group provides sports data services through consumer subscription platforms like OddsJam and RotoWire, along with B2B services through OpticOdds. These offerings deliver real-time data, actionable insights, and technology driven tools to both consumers and enterprise partners.\n\nAs the first and only online gambling affiliate publicly traded in the U.S., Gambling.com Group has earned recognition as a leader in its field \u2013 most recently winning Affiliate of the Year at the 2025 EGR Operator Awards.\n\nAs a Software Engineer, you will play a key role in maintaining the integrity and performance of our client facing products like the Web, the Mobile App and the API. This role emphasizes engineering, building, monitoring, and improving the systems that allow our users to visualize and understand the massive amount of data regarding games bets, stats and result in a performant way. Our systems manage 4TB of data a day which makes it critical to build and maintain highly performant code.\n\nThe role is suited to someone who brings strong engineering fundamentals, is confident in debugging complex systems, and enjoys the challenge of working in real time with mission-critical data. You will collaborate with product and client support teams to ensure our platform remains the most reliable in the market.\n\nRequirements:\n\u2022 5+ years of Python\n\u2022 3+ years of experience with REST / Websocket frameworks like Django or FastAPI.\n\u2022 Someone who moves fast and isn't scared to experiment with new technologies, frameworks, and rapidly test ideas\n\nNice to haves:\n\u2022 Experience with event-driven architectures\n\u2022 Experience with ETL Pipelines\n\u2022 Experience with Google Cloud systems\n\u2022 Experience with Redis\n\nPerks & Benefits\n\u2022 Comprehensive private Healthcare Insurance\n\u2022 Flexible work environment and home office available\n\u2022 Home office allowance\n\u2022 Gym & Leisure Allowance\n\u2022 All the hardware and software you need to be successful\n\u2022 Regular company events and social outings, activities, Spot Awards and a Monthly Social Club\n\u2022 Access to courses for Personal and Career Development\n\u2022 Company Paid Volunteer Day\n\nAbout the Company:\nGambling.com Group",
+            "job_description": "Description\n\nAt RELI Group, our work is grounded in purpose. We partner with government agencies to solve complex challenges, improve public health, strengthen national security, and make government services more effective and efficient. Our team of over 500 professionals brings deep expertise and a shared commitment to delivering meaningful outcomes. Behind every solution is a group of experts who care deeply about impact\u2014whether we\u2019re supporting data-driven decisions, modernizing systems or safeguarding critical programs.\n\nPosition Summary:\n\nWe are seeking a detail-oriented and analytical Power BI Intern to join our team. The intern will assist in building, maintaining, and optimizing Power BI dashboards and reports that provide key business insights to internal stakeholders. This is an excellent opportunity for someone looking to gain hands-on experience in data visualization, business analysis, and real-world data problem solving.\nResponsibilities\n\u2022 Assist in designing and developing interactive Power BI dashboards and reports.\n\u2022 Clean, transform, and analyze large datasets from various sources (Excel, SQL, SharePoint, etc.).\n\u2022 Collaborate with team members and business units to gather requirements and deliver visualizations that drive decision-making.\n\u2022 Perform data validation and troubleshooting on existing reports.\n\u2022 Document processes and contribute to best practices in dashboard design and data governance.\nQualifications\n\u2022 Current junior, senior, or recent graduate in Computer Science, Data Analytics, Statistics, Information Systems, Business, or related field.\n\u2022 Basic experience or coursework with Power BI, including DAX and Power Query.\n\u2022 Familiarity with Excel and basic SQL.\n\u2022 Strong attention to detail and problem-solving skills.\n\u2022 Good communication and collaboration skills.\n\u2022 Exposure to other data visualization tools (e.g., Tableau) preferred\n\u2022 Experience with Microsoft Azure or SharePoint preferred\n\u2022 Knowledge of statistical analysis or data modeling preferred\n\u2022 *MUST reside in a HUBZone. Please check your eligibility on HUBZone Map (sba.gov).\n\nEEO Employer:\n\nRELI Group is an Equal Employment Opportunity / Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, national origin, ancestry, citizenship status, military status, protected veteran status, religion, creed, physical or mental disability, medical condition, marital status, sex, sexual orientation, gender, gender identity or expression, age, genetic information, or any other basis protected by law, ordinance, or regulation.\n\nHUBZone:\n\nWe encourage all candidates who live in a HUBZone to apply. You can check to see if you address is located in a HUBZone by accessing the SBA HUBZone Map.\n\nThe hourly rate for this position is $15 per hour. Actual compensation will depend on a range of factors, including but not limited to the individual\u2019s skills, experience, qualifications, certifications, location, other business and organizational needs, and applicable employment laws. The estimate displayed represents the typical salary range for this position and is just one component of the total compensation package for employees. RELI Group provides a variety of additional benefits to its employees. For additional details on the benefits that RELI Group offers click here.",
             "job_is_remote": false,
-            "job_posted_at": "24 days ago",
-            "job_posted_at_timestamp": 1770163200,
-            "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
             "job_location": "Las Vegas, NV",
             "job_city": "Las Vegas",
             "job_state": "Nevada",
@@ -832,216 +363,197 @@
             "job_benefits": [
                 "health_insurance"
             ],
-            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DogBwQJyPFxktc_l4AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2pWpK1JCNI0-X-UpAAAAAA%3D%3D&vssid=jobs-detail-viewer",
             "job_salary": null,
             "job_min_salary": null,
             "job_max_salary": null,
             "job_salary_period": null,
             "job_highlights": {
                 "Qualifications": [
-                    "5+ years of Python",
-                    "3+ years of experience with REST / Websocket frameworks like Django or FastAPI",
-                    "Someone who moves fast and isn't scared to experiment with new technologies, frameworks, and rapidly test ideas",
-                    "Experience with event-driven architectures",
-                    "Experience with ETL Pipelines",
-                    "Experience with Google Cloud systems",
-                    "Experience with Redis",
-                    "All the hardware and software you need to be successful"
+                    "Current junior, senior, or recent graduate in Computer Science, Data Analytics, Statistics, Information Systems, Business, or related field",
+                    "Basic experience or coursework with Power BI, including DAX and Power Query",
+                    "Familiarity with Excel and basic SQL",
+                    "Strong attention to detail and problem-solving skills",
+                    "Good communication and collaboration skills",
+                    "*MUST reside in a HUBZone"
                 ],
                 "Benefits": [
-                    "Comprehensive private Healthcare Insurance",
-                    "Flexible work environment and home office available",
-                    "Home office allowance",
-                    "Gym & Leisure Allowance",
-                    "Regular company events and social outings, activities, Spot Awards and a Monthly Social Club",
-                    "Access to courses for Personal and Career Development",
-                    "Company Paid Volunteer Day"
+                    "The hourly rate for this position is $15 per hour",
+                    "Actual compensation will depend on a range of factors, including but not limited to the individual\u2019s skills, experience, qualifications, certifications, location, other business and organizational needs, and applicable employment laws",
+                    "RELI Group provides a variety of additional benefits to its employees"
                 ],
                 "Responsibilities": [
-                    "As a Software Engineer, you will play a key role in maintaining the integrity and performance of our client facing products like the Web, the Mobile App and the API",
-                    "This role emphasizes engineering, building, monitoring, and improving the systems that allow our users to visualize and understand the massive amount of data regarding games bets, stats and result in a performant way",
-                    "Our systems manage 4TB of data a day which makes it critical to build and maintain highly performant code",
-                    "The role is suited to someone who brings strong engineering fundamentals, is confident in debugging complex systems, and enjoys the challenge of working in real time with mission-critical data",
-                    "You will collaborate with product and client support teams to ensure our platform remains the most reliable in the market"
+                    "We are seeking a detail-oriented and analytical Power BI Intern to join our team",
+                    "The intern will assist in building, maintaining, and optimizing Power BI dashboards and reports that provide key business insights to internal stakeholders",
+                    "This is an excellent opportunity for someone looking to gain hands-on experience in data visualization, business analysis, and real-world data problem solving",
+                    "Assist in designing and developing interactive Power BI dashboards and reports",
+                    "Clean, transform, and analyze large datasets from various sources (Excel, SQL, SharePoint, etc.)",
+                    "Collaborate with team members and business units to gather requirements and deliver visualizations that drive decision-making",
+                    "Perform data validation and troubleshooting on existing reports",
+                    "Document processes and contribute to best practices in dashboard design and data governance"
                 ]
             },
-            "job_onet_soc": "15113300",
+            "job_onet_soc": "43911100",
             "job_onet_job_zone": "4"
         },
         {
-            "job_id": "wOSgtuqiCSL5ZbkrAAAAAA==",
-            "job_title": "Room Service Host & Cashier - Luxury Guest Experience",
-            "employer_name": "Station Casinos LLC.",
+            "job_id": "e7gb2Id9o53YHU_lAAAAAA==",
+            "job_title": "Junior Data Analyst, Business Intelligence",
+            "employer_name": "WhatJobs Direct",
             "employer_logo": null,
-            "employer_website": "https://stationcasinos.com",
-            "job_publisher": "JobLeads",
-            "job_employment_type": "Full-time",
+            "employer_website": "https://bh.whatjobs.com",
+            "job_publisher": "WhatJobs",
+            "job_employment_type": "Internship",
             "job_employment_types": [
-                "FULLTIME"
+                "INTERN"
             ],
-            "job_apply_link": "https://www.jobleads.com/us/job/room-service-host-cashier-luxury-guest-experience--las-vegas--e7a5d334d538393b92ed9dedc1bf54463?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_link": "https://www.whatjobs.com/jobs/data-visualization?id=2437408130&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
             "job_apply_is_direct": false,
             "apply_options": [
                 {
-                    "publisher": "JobLeads",
-                    "apply_link": "https://www.jobleads.com/us/job/room-service-host-cashier-luxury-guest-experience--las-vegas--e7a5d334d538393b92ed9dedc1bf54463?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "publisher": "WhatJobs",
+                    "apply_link": "https://www.whatjobs.com/jobs/data-visualization?id=2437408130&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
                     "is_direct": false
                 },
                 {
-                    "publisher": "Learn4Good",
-                    "apply_link": "https://www.learn4good.com/jobs/las-vegas/nevada/hospitality/4852125594/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "apply_link": "https://www.jobleads.com/us/job/room-service-host-cashier-luxury-guest-experience--las-vegas--e7a5d334d538393b92ed9dedc1bf54463",
+                    "apply_link": "https://www.whatjobs.com/jobs/data-visualization?id=2437408130",
                     "is_direct": null,
-                    "publisher": "JobLeads"
+                    "publisher": "WhatJobs"
                 }
             ],
-            "job_description": "A prominent casino operator in Las Vegas seeks a Host/Cashier to enhance guest experiences through outstanding service. Responsibilities include interacting with guests, managing food service knowledge, and ensuring register accuracy. Applicants should have a minimum of one-year experience in a service environment and strong communication skills. Join a team dedicated to creating memorable moments for customers in an upscale atmosphere.",
+            "job_description": "Our client is seeking an enthusiastic and detail-oriented Junior Data Analyst to join their Business Intelligence team as an Intern in Las Vegas, Nevada, US . This internship provides an unparalleled opportunity for ambitious students or recent graduates to gain hands-on experience in data analysis, reporting, and business intelligence tools. You will work closely with senior analysts and business stakeholders, contributing to critical data-driven decisions. The ideal candidate possesses a strong quantitative aptitude, a keen interest in data, and a desire to learn and grow within a professional corporate environment. Responsibilities include:\nAssisting in the collection, cleaning, and validation of data from various sources. Supporting the development and maintenance of business intelligence reports and dashboards. Performing data analysis to identify trends, patterns, and insights that can inform business strategies. Creating visualizations and charts to effectively communicate data findings. Collaborating with team members to understand data requirements and provide analytical support. Documenting data sources, methodologies, and analytical processes. Learning and utilizing BI tools such as Tableau, Power BI, or similar platforms. Assisting in ad-hoc data requests and analytical projects as needed. Participating in team meetings and contributing ideas for process improvements. Ensuring data accuracy and integrity in all assigned tasks.\nQualifications:\nCurrently pursuing or recently completed a Bachelor's degree in Data Science, Statistics, Mathematics, Economics, Business Analytics, or a related quantitative field. Strong foundational knowledge of statistical concepts and data analysis techniques. Proficiency in Microsoft Excel, including pivot tables, VLOOKUP, and basic formulas. Familiarity with SQL for data querying is a strong plus. Experience with data visualization tools (e.g., Tableau, Power BI) is desirable. Excellent attention to detail and accuracy. Strong analytical and problem-solving skills. Good written and verbal communication skills. Ability to work independently and as part of a team. Eagerness to learn and adapt to new technologies and methodologies. Must be available for the duration of the internship program in Las Vegas, Nevada, US .\nThis internship offers a valuable learning experience, practical skill development, and a chance to explore career paths in data analytics within a dynamic industry in Las Vegas, Nevada, US .",
             "job_is_remote": false,
-            "job_posted_at": "5 days ago",
-            "job_posted_at_timestamp": 1771804800,
-            "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
-            "job_location": "Las Vegas, NV",
-            "job_city": "Las Vegas",
+            "job_posted_at": "26 days ago",
+            "job_posted_at_timestamp": 1769990400,
+            "job_posted_at_datetime_utc": "2026-02-02T00:00:00.000Z",
+            "job_location": "Sunrise Manor, NV",
+            "job_city": "Sunrise Manor",
             "job_state": "Nevada",
             "job_country": "US",
-            "job_latitude": 36.171563,
-            "job_longitude": -115.13910089999999,
+            "job_latitude": 36.211081899999996,
+            "job_longitude": -115.07305629999999,
             "job_benefits": null,
-            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwOSgtuqiCSL5ZbkrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-            "job_min_salary": 30000,
-            "job_max_salary": 40000,
-            "job_salary_period": "YEAR",
-            "job_highlights": {
-                "Qualifications": [
-                    "Applicants should have a minimum of one-year experience in a service environment and strong communication skills"
-                ],
-                "Responsibilities": [
-                    "Responsibilities include interacting with guests, managing food service knowledge, and ensuring register accuracy"
-                ]
-            },
-            "job_onet_soc": "41201100",
-            "job_onet_job_zone": "2"
-        },
-        {
-            "job_id": "7FEKbK8etj47Uc2DAAAAAA==",
-            "job_title": "Associate Resource Scheduler",
-            "employer_name": "Light & Wonder",
-            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdCFv0Ruge3ZGnm3SFLX4xti4M_Yp4TJWF515m&s=0",
-            "employer_website": null,
-            "job_publisher": "LinkedIn",
-            "job_employment_type": "Full-time",
-            "job_employment_types": [
-                "FULLTIME"
-            ],
-            "job_apply_link": "https://www.linkedin.com/jobs/view/associate-resource-scheduler-at-light-wonder-4377562314?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-            "job_apply_is_direct": false,
-            "apply_options": [
-                {
-                    "publisher": "LinkedIn",
-                    "apply_link": "https://www.linkedin.com/jobs/view/associate-resource-scheduler-at-light-wonder-4377562314?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "ZipRecruiter",
-                    "apply_link": "https://www.ziprecruiter.com/c/Lnw/Job/Associate-Resource-Scheduler/-in-Las-Vegas,NV?jid=3338e7e82aca89fe&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": true
-                },
-                {
-                    "publisher": "Teal",
-                    "apply_link": "https://www.tealhq.com/job/associate-resource-scheduler_7ea1ac9eefc6ea99a2b4c544045699f4d5da8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "SimplyHired",
-                    "apply_link": "https://www.simplyhired.com/job/ysQtevJ0r5oZ3PJsqzzPKmx4rQgepYBWCd7PL-YO_G3Dd0uJ6-cbaw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Lensa",
-                    "apply_link": "https://lensa.com/job-v1/light-and-wonder-international-inc/las-vegas-nv/associate-scheduler/cbd8c589ea80d34de9eb2d3d1739d700?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Breakroom",
-                    "apply_link": "https://www.breakroom.cc/en-us/jobs/listing/29354446-light-and-wonder-inc-associate-resource-scheduler-las-vegas?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Adzuna",
-                    "apply_link": "https://www.adzuna.com/details/5646356297?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "BeBee",
-                    "apply_link": "https://us.bebee.com/job/d763bd313ce8832c2caad3ddda08cc66?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-                    "is_direct": false
-                },
-                {
-                    "apply_link": "https://www.linkedin.com/jobs/view/associate-resource-scheduler-at-light-wonder-4377562314",
-                    "is_direct": null,
-                    "publisher": "LinkedIn"
-                }
-            ],
-            "job_description": "Gaming:\n\nWelcome to the world of land-based gaming. At Light & Wonder, it\u2019s all about the games, and our Gaming team builds cutting-edge technology, products, and content for the most iconic casinos and operators across the globe.\n\nPosition Summary\n\nDuties, Task And Responsibilities\n\u2022 Schedule job tasks for the field service department including product installations, conversions, equipment removal, and upgrades.\n\u2022 Schedule supplier tasks to support field service installations, removals, and conversions.\n\u2022 Schedule job task in the most efficient manner based on the understanding of field services availability.\n\u2022 Communicate with Field Service Management to accurately coordinate job tasks.\n\u2022 Effectively communicate with customers\u2019 and provide all required documentation per our Standard Operating Procedures.\n\u2022 Update multiple databases in a timely manner.\n\u2022 Demonstrate the ability to run reports as required.\n\u2022 Participate in internal/external meetings as required and communicate important information with other departments.\n\u2022 Cover Team Member responsibilities when absent.\n\u2022 Regional variations as necessary with any required documentation.\n\u2022 Must have the ability to work independently and direct a group of individuals.\n\u2022 Other duties as assigned.\n\nSkills, Abilities And Knowledge\n\u2022 Demonstrate the ability to organize and manage the product coordination for Field Service.\n\u2022 Capability to understand compliance and regulatory requirements.\n\u2022 Must be able to adapt to stressful internal/external customer situations.\n\u2022 Demonstrate the ability to effectively negotiate and drive resolutions as required with professionalism.\n\u2022 Ability to effectively manage a diverse workforce.\n\u2022 Must be able to adapt to change and a fast-paced environment.\n\u2022 Communicate and interact with customers internally/externally effectively and efficiently.\n\u2022 Must possess the ability to be courteous and professional with clients internal and external, resulting in a positive customer experience.\n\u2022 Beginner level for Internet Browser and MS suite programs: Google Chrome, Internet Explorer Outlook, Teams, Word, and Excel\n\u2022 Excellent email etiquette\n\u2022 Familiar with Oracle systems\n\nQualifications\n\nEducation and Training Skills\n\u2022 High School Degree Required\n\u2022 1 year or less scheduling experience in Gaming or Similar Business\n\u2022 Oracle Experience and Microsoft Applications Preferred\n\nSoft Skills\n\u2022 Drive and exhibit the company core values.\n\u2022 Build sustainable relationships of trust through open and interactive communication.\n\u2022 Good communication skills with a customer service approach.\n\u2022 Adapts as technology changes.\n\u2022 Easily embraces change within the organization.\n\nLight & Wonder Corporation and its affiliates are engaged in highly regulated gaming and lottery businesses. As a result, certain Light & Wonder may, among other things, be required to obtain a gaming or other license(s), undergo background investigations or security checks, or meet certain standards dictated by law, regulation or contracts. In order to ensure L&W complies with its regulatory and contractual commitments, as a condition to hiring and continuing to employ its employees, L&W requires all of its employees to meet those requirements that are necessary to fulfill their individual roles. As a prerequisite to employment with L&W (to the extent permitted by law), you shall be asked to consent to L&W conducting a due diligence/background investigation on you.\n\nThis job description should not be interpreted as all-inclusive; it is intended to identify major responsibilities and requirements of the job. The employee in this position may be requested to perform other job-related tasks and responsibilities than those stated above.\n\nLight & Wonder is an Equal Opportunity Employer and does not discriminate against applicants due to race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class. If you\u2019d like more information about your equal employment opportunity rights as an applicant under the law, please click here for EEOC Poster.",
-            "job_is_remote": false,
-            "job_posted_at": "3 days ago",
-            "job_posted_at_timestamp": 1771977600,
-            "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z",
-            "job_location": "Las Vegas, NV",
-            "job_city": "Las Vegas",
-            "job_state": "Nevada",
-            "job_country": "US",
-            "job_latitude": 36.171563,
-            "job_longitude": -115.13910089999999,
-            "job_benefits": null,
-            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D7FEKbK8etj47Uc2DAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3De7gb2Id9o53YHU_lAAAAAA%3D%3D&vssid=jobs-detail-viewer",
             "job_salary": null,
             "job_min_salary": null,
             "job_max_salary": null,
             "job_salary_period": null,
             "job_highlights": {
                 "Qualifications": [
-                    "Demonstrate the ability to organize and manage the product coordination for Field Service",
-                    "Capability to understand compliance and regulatory requirements",
-                    "Must be able to adapt to stressful internal/external customer situations",
-                    "Demonstrate the ability to effectively negotiate and drive resolutions as required with professionalism",
-                    "Ability to effectively manage a diverse workforce",
-                    "Must be able to adapt to change and a fast-paced environment",
-                    "Communicate and interact with customers internally/externally effectively and efficiently",
-                    "Must possess the ability to be courteous and professional with clients internal and external, resulting in a positive customer experience",
-                    "Beginner level for Internet Browser and MS suite programs: Google Chrome, Internet Explorer Outlook, Teams, Word, and Excel",
-                    "Excellent email etiquette",
-                    "Familiar with Oracle systems",
-                    "High School Degree Required",
-                    "1 year or less scheduling experience in Gaming or Similar Business",
-                    "Drive and exhibit the company core values",
-                    "Build sustainable relationships of trust through open and interactive communication",
-                    "Good communication skills with a customer service approach",
-                    "Adapts as technology changes",
-                    "Easily embraces change within the organization",
-                    "As a result, certain Light & Wonder may, among other things, be required to obtain a gaming or other license(s), undergo background investigations or security checks, or meet certain standards dictated by law, regulation or contracts",
-                    "In order to ensure L&W complies with its regulatory and contractual commitments, as a condition to hiring and continuing to employ its employees, L&W requires all of its employees to meet those requirements that are necessary to fulfill their individual roles"
+                    "This internship provides an unparalleled opportunity for ambitious students or recent graduates to gain hands-on experience in data analysis, reporting, and business intelligence tools",
+                    "The ideal candidate possesses a strong quantitative aptitude, a keen interest in data, and a desire to learn and grow within a professional corporate environment",
+                    "Currently pursuing or recently completed a Bachelor's degree in Data Science, Statistics, Mathematics, Economics, Business Analytics, or a related quantitative field",
+                    "Strong foundational knowledge of statistical concepts and data analysis techniques",
+                    "Proficiency in Microsoft Excel, including pivot tables, VLOOKUP, and basic formulas",
+                    "Familiarity with SQL for data querying is a strong plus",
+                    "Excellent attention to detail and accuracy",
+                    "Strong analytical and problem-solving skills",
+                    "Good written and verbal communication skills",
+                    "Ability to work independently and as part of a team",
+                    "Eagerness to learn and adapt to new technologies and methodologies",
+                    "Must be available for the duration of the internship program in Las Vegas, Nevada, US "
                 ],
                 "Responsibilities": [
-                    "Schedule job tasks for the field service department including product installations, conversions, equipment removal, and upgrades",
-                    "Schedule supplier tasks to support field service installations, removals, and conversions",
-                    "Schedule job task in the most efficient manner based on the understanding of field services availability",
-                    "Communicate with Field Service Management to accurately coordinate job tasks",
-                    "Effectively communicate with customers\u2019 and provide all required documentation per our Standard Operating Procedures",
-                    "Update multiple databases in a timely manner",
-                    "Demonstrate the ability to run reports as required",
-                    "Participate in internal/external meetings as required and communicate important information with other departments",
-                    "Cover Team Member responsibilities when absent",
-                    "Regional variations as necessary with any required documentation",
-                    "Must have the ability to work independently and direct a group of individuals",
-                    "Other duties as assigned"
+                    "You will work closely with senior analysts and business stakeholders, contributing to critical data-driven decisions",
+                    "Assisting in the collection, cleaning, and validation of data from various sources",
+                    "Supporting the development and maintenance of business intelligence reports and dashboards",
+                    "Performing data analysis to identify trends, patterns, and insights that can inform business strategies",
+                    "Creating visualizations and charts to effectively communicate data findings",
+                    "Collaborating with team members to understand data requirements and provide analytical support",
+                    "Documenting data sources, methodologies, and analytical processes",
+                    "Learning and utilizing BI tools such as Tableau, Power BI, or similar platforms",
+                    "Assisting in ad-hoc data requests and analytical projects as needed",
+                    "Participating in team meetings and contributing ideas for process improvements",
+                    "Ensuring data accuracy and integrity in all assigned tasks"
                 ]
             },
-            "job_onet_soc": "43506100",
-            "job_onet_job_zone": "3"
+            "job_onet_soc": "43911100",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "PE5yGu4iEGekx2GNAAAAAA==",
+            "job_title": "Undergraduate Data Analyst for PowerBI Internship",
+            "employer_name": "Nevada National Security Sites",
+            "employer_logo": null,
+            "employer_website": null,
+            "job_publisher": "BeBee",
+            "job_employment_type": "Internship",
+            "job_employment_types": [
+                "INTERN"
+            ],
+            "job_apply_link": "https://us.bebee.com/job/873a02a765a0882dfe28c8affd415889?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/873a02a765a0882dfe28c8affd415889?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobilize",
+                    "apply_link": "https://www.jobilize.com/job/us-nv-nevada-north-las-vegas-undergraduate-data-analyst-for-powerbi?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "apply_link": "https://us.bebee.com/job/873a02a765a0882dfe28c8affd415889",
+                    "is_direct": null,
+                    "publisher": "BeBee"
+                }
+            ],
+            "job_description": "Job Description\nMission Support and Test Services, LLC (MSTS) manages and operates the Nevada National Security Site (NNSS) for the U.S. National Nuclear Security Administration (NNSA). Our MISSION is to help ensure the security of the United States and its allies by providing high-hazard experimentation and incident response capabilities through operations, engineering, education, field, and integration services and by acting as environmental stewards to the Site's Cold War legacy. Our VISION is to be the user site of choice for large-scale, high-hazard, national security experimentation, with premier facilities and capabilities below ground, on the ground, and in the air. (See for our unique capabilities.) Our 2,750+ professional, craft, and support employees are called upon to innovate, collaborate, and deliver on some of the more difficult nuclear security challenges facing the world today. In this environment, the best ideas need to be voiced and every opinion matters.\n\u2022 MSTS offers our regular, full-time employees highly competitive salaries and benefits packages including medical, dental, and vision; both a pension and a 401k; paid time off and 96 hours of paid holidays; relocation (if located more than 75 miles from work location); tuition assistance and reimbursement; and more.\n\u2022 MSTS is a limited liability company consisting of Honeywell International Inc. (Honeywell), Jacobs Engineering Group Inc. (Jacobs), and HII Nuclear Inc.\n\nResponsibilities\nTHIS IS A CASUAL POSITION WORKING A MAXIMUM OF 900 HOURS PER CALENDAR YEAR.\nOur Data Analyst intern will work under the direct supervision of a manager & mentor within a variety of areas and will be provided with hands-on participation in ongoing projects at one of the most unique experimental sites in the United States.\n\nDuties And Responsibilities\n\u2022 Assist with developing PowerBI dashboards.\n\u2022 Collaborate with data owners to identify data sources and metric calculations, automating metric collection and reporting.\n\u2022 Create and give presentations on both projects and progress to teammates and management.\n\u2022 Participate on small teams of scientists, engineers, and technicians, to devise technical solutions and provide deliverables to customers.\n\nPlease note these important dates for our 2026 Summer Student Program\n:\n\u2022 January 30th, Last day for student internship applications to be accepted.\n\u2022 May 19th, Summer internship Student Program begins.\n\u2022 August 7th, Summer internship Student Program concludes.\n\nQualifications\nDue to the nature of our work, US Citizenship is required for all positions.\n\u2022 Completion of the first year in a related business degree program at an accredited institution, as of the date application is submitted.\n\u2022 The declared degree must pertain to the department to which the student will be assigned.\n\u2022 Must be actively enrolled in school, as of the date application is submitted.\n\u2022 Must have and maintain a cumulative grade point average of 3.0 on a 4.0 scale, as of the date application is submitted.\n\u2022 Must be located in the contiguous United States.\n\u2022 Must have:\n\u2022 Familiarity with PowerBI\n\u2022 Planning/organizing skills and initiative\n\u2022 Good written and verbal communication skills\n\u2022 Ability to follow directions, both written and verbal, and able to work independently as well as part of a team\n\u2022 Strong computer skills are desired, including MS Office and computer programming.\n\u2022 The primary work location will be at the Nevada National Security Site (located 65 miles northwest of Las Vegas, Nevada).\n\u2022 A pre-placement drug screen, is required. MSTS maintains a substance abuse policy that includes random drug testing.\n\u2022 Must have a valid driver's license.\n\nAbility to obtain a HSPD-12 Personal Identity Verification credential under the Department of Energy Order 206.2, '\nIdentity, Credential, and Access Management\n,' and Supplemental Directive NNSA SD 206.2, '\nImplementation of Personal Identity Verification for Uncleared Contractors\n.'\n\nMSTS is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, disability, veteran status or other characteristics protected by law. MSTS is a background screening, drug-free workplace.\n\nHourly range for this position is\n$16.38 to $22.07.\nStarting salary is determined based on the position market value, the individual candidate education and experience and internal equity.",
+            "job_is_remote": false,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": "North Las Vegas, NV",
+            "job_city": "North Las Vegas",
+            "job_state": "Nevada",
+            "job_country": "US",
+            "job_latitude": 36.1988592,
+            "job_longitude": -115.1175013,
+            "job_benefits": [
+                "health_insurance",
+                "dental_coverage",
+                "paid_time_off"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DPE5yGu4iEGekx2GNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Completion of the first year in a related business degree program at an accredited institution, as of the date application is submitted",
+                    "The declared degree must pertain to the department to which the student will be assigned",
+                    "Must be actively enrolled in school, as of the date application is submitted",
+                    "Must have and maintain a cumulative grade point average of 3.0 on a 4.0 scale, as of the date application is submitted",
+                    "Must be located in the contiguous United States",
+                    "Familiarity with PowerBI",
+                    "Planning/organizing skills and initiative",
+                    "Good written and verbal communication skills",
+                    "Ability to follow directions, both written and verbal, and able to work independently as well as part of a team",
+                    "The primary work location will be at the Nevada National Security Site (located 65 miles northwest of Las Vegas, Nevada)",
+                    "A pre-placement drug screen, is required",
+                    "MSTS maintains a substance abuse policy that includes random drug testing",
+                    "Must have a valid driver's license",
+                    "Ability to obtain a HSPD-12 Personal Identity Verification credential under the Department of Energy Order 206.2, '",
+                    "Identity, Credential, and Access Management"
+                ],
+                "Benefits": [
+                    "MSTS offers our regular, full-time employees highly competitive salaries and benefits packages including medical, dental, and vision; both a pension and a 401k; paid time off and 96 hours of paid holidays; relocation (if located more than 75 miles from work location); tuition assistance and reimbursement; and more",
+                    "$16.38 to $22.07"
+                ],
+                "Responsibilities": [
+                    "THIS IS A CASUAL POSITION WORKING A MAXIMUM OF 900 HOURS PER CALENDAR YEAR",
+                    "Our Data Analyst intern will work under the direct supervision of a manager & mentor within a variety of areas and will be provided with hands-on participation in ongoing projects at one of the most unique experimental sites in the United States",
+                    "Assist with developing PowerBI dashboards",
+                    "Collaborate with data owners to identify data sources and metric calculations, automating metric collection and reporting",
+                    "Create and give presentations on both projects and progress to teammates and management",
+                    "Participate on small teams of scientists, engineers, and technicians, to devise technical solutions and provide deliverables to customers"
+                ]
+            },
+            "job_onet_soc": "43911100",
+            "job_onet_job_zone": "4"
         }
     ]
 }

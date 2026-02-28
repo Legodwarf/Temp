@@ -169,4 +169,108 @@ IDB. Data Analyst Intern: Graduate Intern at IDB
 **Resume Changes to Make:**
 *   Quantify leadership impact with financial metrics where possible.
 *   Tailor project descriptions to highlight analytical skills applicable to financial performance.
-*   Emphasize Spanish proficiency's relevance to customer interaction and community outreach.
+*   Emphasize Spanish proficiency's relevance to customer interaction and community outreach.**Business Intelligence Intern at GamblingCareers.com**
+
+**Resume Gaps:**
+
+*   Lack of explicit mention of business intelligence tools (e.g., Tableau, Power BI).
+*   No direct experience with data warehousing or ETL processes.
+*   Limited demonstration of analytical projects directly relevant to the gambling industry.
+*   No mention of agile methodologies or project management tools.
+
+**Key Skills to Develop:**
+
+*   **Tableau/Power BI:** Hands-on experience with popular BI visualization tools.
+*   **SQL Advanced Querying:** Deeper expertise in complex SQL for data extraction and manipulation.
+*   **Data Warehousing Concepts:** Understanding of data architecture and ETL processes.
+
+**Resume Changes to Make:**
+
+*   Quantify project impact: Add metrics like "increased accuracy by X%" or "identified cost savings of Y%" to project descriptions.
+*   Incorporate BI tools: If any projects involved visualization, explicitly mention Tableau, Power BI, or similar.
+*   Tailor skills section: Add "Business Intelligence" and relevant tools to the Skills section.Business Intelligence UWEP Internship - Fall 2025 at United Soccer League (USL)
+
+*Resume Gaps*
+*   Lack of specific experience or projects related to sports analytics or the sports industry.
+*   Limited explicit mention of business intelligence tools like Tableau, Power BI, or specific BI methodologies.
+*   No clear demonstration of working with large datasets specific to business operations or customer analytics.
+
+*Key Skills to Develop*
+*   **Sports Analytics:** Familiarize yourself with common metrics and analytical approaches used in sports.
+*   **BI Tools:** Gain proficiency in at least one major BI platform (e.g., Tableau, Power BI).
+*   **Data Visualization:** Develop skills in creating compelling and insightful dashboards and reports.
+
+*Resume Changes to Make*
+*   Quantify the impact of your Teaching Assistant role with specific examples of student improvement.
+*   Tailor project descriptions to highlight transferable skills like data analysis and problem-solving relevant to BI.
+*   Consider adding a "Business Intelligence" section to list relevant tools and coursework if applicable.Business Analyst Intern: Maximus
+<resume gaps>:
+* Lack of explicit experience with stakeholder management or requirements gathering relevant to a business analyst role.
+* Limited exposure to business process mapping or documentation.
+* No direct mention of analytical tools commonly used by business analysts beyond Python/SQL (e.g., Visio, Jira, Excel for advanced analysis).
+
+<key skills to develop>:
+* Requirements Elicitation and Documentation
+* Stakeholder Communication and Management
+* Business Process Modeling
+
+<resume changes to make>:
+*   **Emphasize transferable skills:** Reframe "Assistant Coordinator" to highlight "cross-functional collaboration" and "identifying challenges/implementing solutions."
+*   **Quantify impact:** For "Teaching Assistant," add a metric on student improvement in data literacy.
+*   **Tailor project descriptions:** For "Business Case," explicitly mention identifying business needs and proposing solutions.Here's a breakdown of your resume based on the Power BI Intern role:
+
+**Power BI Intern at Reliant Group Inc.**
+
+**Resume Gaps:**
+
+*   Limited direct experience with Power BI and its related functionalities (DAX, Power Query, report/dashboard creation).
+*   Lack of quantifiable results specifically tied to data visualization or reporting projects.
+*   No mention of business intelligence concepts or methodologies.
+
+**Key Skills to Develop:**
+
+*   **Power BI:** Master the core functionalities of Power BI Desktop, including data modeling, DAX for complex calculations, Power Query for data transformation, and creating interactive dashboards and reports.
+*   **Data Visualization Best Practices:** Understand principles of effective data visualization to create clear, insightful, and impactful reports that drive business decisions.
+*   **SQL Server Analysis Services (SSAS):** Gain familiarity with SSAS to understand how to build tabular models, which are often used in conjunction with Power BI for enterprise-level reporting.
+
+**Resume Changes to Make:**
+
+*   Add a "Skills" section with "Power BI" prominently listed.
+*   Quantify project impact by mentioning "developed interactive dashboards" or "visualized key metrics."
+*   Tailor the "Business Case" project to highlight data visualization outputs that informed decisions.Junior Data Analyst, Business Intelligence at WhatJobs Direct
+
+**Resume Gaps:**
+
+*   Lack of direct experience in Business Intelligence tools (e.g., Tableau, Power BI).
+*   Limited explicit mention of data visualization techniques.
+*   Absence of specific keywords related to reporting, dashboard creation, and business metric analysis.
+
+**Key Skills to Develop:**
+
+*   Business Intelligence Software (e.g., Tableau, Power BI)
+*   Data Visualization and Storytelling
+*   SQL for complex querying and reporting
+
+**Resume Changes to Make:**
+
+*   Quantify project outcomes more directly. For example, "maximal yield of over 30%" could be "generated a maximal yield of over 30%."
+*   Add a "Business Intelligence" or "Data Visualization" skill if any relevant coursework or personal projects exist.
+*   Tailor project descriptions to highlight reporting and analytical insights, mirroring BI tasks.**Undergraduate Data Analyst for PowerBI Internship at Nevada National Security Sites**
+
+**Resume Gaps:**
+
+*   **Power BI Experience:** The resume lacks any mention of direct experience or projects involving Power BI, which is a core requirement for this internship.
+*   **Data Visualization Specificity:** While projects demonstrate analytical skills, there's no explicit mention of creating dashboards, reports, or using specific data visualization techniques relevant to business needs.
+*   **Government/Security Clearance Context:** The resume doesn't touch upon any experience or understanding of working in secure environments or with sensitive data, which is often relevant for national security sites.
+
+**Key Skills to Develop:**
+
+*   **Power BI Proficiency:** Gain hands-on experience creating dashboards, reports, and data models within Power BI.
+*   **Data Visualization Best Practices:** Learn to design effective and insightful visualizations for various audiences.
+*   **SQL for Data Analysis & Reporting:** Enhance SQL skills with a focus on querying for reporting and dashboard creation.
+
+**Resume Changes to Make:**
+
+*   **Add a Power BI Project:** If possible, create a small Power BI project and add it to your "Projects" section.
+*   **Quantify Visualizations:** In existing projects, emphasize the *impact* of your analysis through visualizations.
+*   **Tailor Skills:** Consider adding "Data Visualization" to your skills section, highlighting any specific tools learned.
