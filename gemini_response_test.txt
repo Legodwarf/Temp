@@ -154,4 +154,19 @@ IDB. Data Analyst Intern: Graduate Intern at IDB
 **Resume Changes to Make**:
 *   Quantify project impact using specific numbers where possible.
 *   Add a bullet point for your AWS stock simulation detailing its use for data extraction and processing.
-*   Clearly list "Data Visualization" under Skills and mention Power BI or similar tools if learned.
+*   Clearly list "Data Visualization" under Skills and mention Power BI or similar tools if learned.Financial Center Assistant Manager - Spanish Required at Bank of America
+
+**Resume Gaps:**
+*   **Direct Financial Industry Experience:** Lack of specific experience in banking, financial services, or retail financial management.
+*   **Customer Service in a Financial Setting:** While experience exists in managing teams and operations, direct customer interaction within a financial context is not detailed.
+*   **Sales and Business Development:** The resume doesn't explicitly highlight experience in sales, achieving financial targets, or driving business growth for a financial institution.
+
+**Key Skills to Develop:**
+*   Financial Product Knowledge (e.g., banking services, loans, investments)
+*   Sales Acumen and Target Achievement
+*   Customer Relationship Management in a Financial Context
+
+**Resume Changes to Make:**
+*   Quantify leadership impact with financial metrics where possible.
+*   Tailor project descriptions to highlight analytical skills applicable to financial performance.
+*   Emphasize Spanish proficiency's relevance to customer interaction and community outreach.

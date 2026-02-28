@@ -108,6 +108,7 @@ def genSummarizedJobOutputJSON(query, country="us"):
 # Writes the response to a file
 def generate_gemini_response(resume, job_dict): #job_dict
     resume_text = "\n".join(p.text for p in docx.Document(resume).paragraphs if p.text.strip())
+    response = None
     for job in job_dict.keys():
         base_prompt = "Role: Career Coach;" # Check indentation when swapping between full Jsearch API call and one job for testing Gemini response
         prompt = (
@@ -133,7 +134,7 @@ def generate_gemini_response(resume, job_dict): #job_dict
         with open("gemini_response_test.txt", "a", encoding="utf-8") as file:
             file.write(response.text)
     print("Gemini response generated and saved to gemini_response.txt")
-    return response.text
+    return response.text if response is not None else ""
 
 # job_dict = jobOutput(input("Enter a job title and location (e.g. 'Data Analyst (Intern) in Washington, DC'): ")) <- Full Jsearch API call
 # job_dict = json.load(open("ExampleSummarizedOutput.json", "w", encoding="utf-8")) <- Example output from Jsearch API call (several jobs   )
