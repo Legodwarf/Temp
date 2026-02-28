@@ -57,7 +57,7 @@
     </style>
 </head>
 <body>
-    <h1>Job Search</h1>
+    <h1>Job Search - Resume Gap Analysis</h1>
 
     <form method="post" action="" enctype="multipart/form-data">
         {% csrf_token %}
@@ -81,7 +81,7 @@
     </form>
 
     <div class="output-section">
-        <h3>Results</h3>
+        <h3>Gap Analysis Results</h3>
         <div class="output-box">
             {% if job_search_output %}
                 {{ job_search_output }}

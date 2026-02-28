@@ -126,17 +126,22 @@ def generate_gemini_response(resume, job_dict): #job_dict
         )
 
         full_prompt =base_prompt + "Step 1:Read this resume content:\n\n" + resume_text + "\n\n" + prompt
-        response = client.models.generate_content(
-            model="gemini-2.5-flash-lite",
-            contents=[full_prompt],
-            config={"http_options": {"timeout": 60000}},
-        )
-        with open("gemini_response_test.txt", "a", encoding="utf-8") as file:
-            file.write(response.text)
-    print("Gemini response generated and saved to gemini_response.txt")
-    return response.text if response is not None else ""
+        try:
+            response = client.models.generate_content(
+                model="gemini-2.5-flash-lite",
+                contents=[full_prompt],
+                config={"http_options": {"timeout": 60000}},
+            )
+            with open("gemini_response_test.txt", "a", encoding="utf-8") as file:
+                file.write(f"\n\nJob: {job}\n")
+                file.write(response.text)
+        except Exception as e:
+            print(f"Error generating Gemini response: {e}")
+            with open("gemini_response_test.txt", "w", encoding="utf-8") as file:
+                file.write(f"\n\nJob: {job}\n")
+                file.write(f"Error generating Gemini response: {e}")
+            response = None
 
-# job_dict = jobOutput(input("Enter a job title and location (e.g. 'Data Analyst (Intern) in Washington, DC'): ")) <- Full Jsearch API call
-# job_dict = json.load(open("ExampleSummarizedOutput.json", "w", encoding="utf-8")) <- Example output from Jsearch API call (several jobs   )
-# generate_gemini_response(doc, job_dict) <- Full Jsearch API call and Gemini response
- # One job for testing Gemini response
+    print("Gemini response generated and saved to gemini_response.txt")
+    with open("gemini_response_test.txt", "r", encoding="utf-8") as output_file:
+        return output_file.read()
