@@ -1,0 +1,933 @@
+{
+    "status": "OK",
+    "request_id": "4a4be7fb-f4e7-444b-8b72-c566ecad034c",
+    "parameters": {
+        "query": "Data Analyst Intern in Washington DC",
+        "page": 1,
+        "num_pages": 1,
+        "date_posted": "all",
+        "country": "us",
+        "language": "en"
+    },
+    "data": [
+        {
+            "job_id": "XQg7lFw3KIPwfVQRAAAAAA==",
+            "job_title": "IDB. Data Analyst Intern",
+            "employer_name": "Inter-American Development Bank",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlCngC4QHAplO4qmEmmvTeTv9A8h63-MMozMYD&s=0",
+            "employer_website": null,
+            "job_publisher": "Indeed",
+            "job_employment_type": "Full-time, Part-time, and Contractor",
+            "job_employment_types": [
+                "FULLTIME",
+                "PARTTIME",
+                "CONTRACTOR"
+            ],
+            "job_apply_link": "https://www.indeed.com/viewjob?jk=ff1c188c5209f7ef&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Indeed",
+                    "apply_link": "https://www.indeed.com/viewjob?jk=ff1c188c5209f7ef&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Glassdoor",
+                    "apply_link": "https://www.glassdoor.com/job-listing/idb-data-analyst-intern-inter-american-development-bank-JV_IC1138213_KO0,23_KE24,55.htm?jl=1010036103544&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "SimplyHired",
+                    "apply_link": "https://www.simplyhired.com/job/0U1fi18yYJGWYVGKorJgo0oK0l-WMVQEgb5ouO2TzAKIDPBcGXGwRQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/idb-data-analyst-intern-at-inter-american-development-bank-4364729409?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/5b26c801a59dfce841ea0f0789277eaf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobright",
+                    "apply_link": "https://jobright.ai/jobs/info/69941dd381476f6176abda23?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Remoteli",
+                    "apply_link": "https://remoteli.io/jobs/data-analyst-intern-nithio?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "J-O-B-Z",
+                    "apply_link": "https://j-o-b-z.com/seo/job/136670079/dc/washington/idb-data-analyst-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "apply_link": "https://www.indeed.com/viewjob?jk=ff1c188c5209f7ef",
+                    "is_direct": null,
+                    "publisher": "Indeed"
+                }
+            ],
+            "job_description": "City: Washington DC\n\nCompany: IDB\n\nPosting End Date: 3/8/2026 11:59 PM EST\n\nIDB- 2026 Summer Internship Program\n\nGraduate Intern\n\nLocation: Washington, D.C. United States\n\nThe IDB Group is a community of diverse, versatile, and passionate people who come together on a journey to improve their lives in Latin America and the Caribbean. Our people find purpose and do what they love in an inclusive, collaborative, agile, and rewarding environment.\n\nAbout this position\n\nThe IDB Group is looking for an active graduate student to be hired as an intern under the Consultant modality.\n\nThe 2026 Summer Internship Program is a competitive paid opportunity, based in Headquarters, for university students from member countries to learn about development work and corporate management of the Bank, and to acquire work experience at the professional level through on-the-job learning.\n\nWhat you\u2019ll do\n\u2022 Collaborate with data analytics research projects led by the Financial Management and Procurement Services - FMP\u2019s data team by cleaning, standardizing, and analyzing data using Python and Power BI.\n\u2022 Explore advanced analytical techniques to support the objectives of the assigned project.\n\u2022 Support the design and automation of visualizations of fiduciary indicators in Power BI by using Power Query, DAX functions, and advanced SQL for dynamic data analysis and reporting.\n\u2022 Write a technical note detailing the results of the assigned research project, the methodology used, and the conclusions.\n\nWhat you'll need\n\u2022 Education : An active graduate student in areas indicated above from an accredited University. The graduation date should be after the Internship period.\n\u2022 Languages : Fluency in English with a working knowledge of one other Bank language (Spanish, French, or Portuguese) is a plus.\n\u2022 Key Skills : learn continuously, collaborate and share knowledge, focus on clients, communicate and influence, innovate and try new things.\n\u2022 Technical skills:\n\u2022 Python\n\u2022 Machine Learning Algorithms and advanced data analytics techniques\n\u2022 PowerBI\n\u2022 Microsoft Excel\n\u2022 Generative AI\n\nRequirements\n\u2022 Citizenship : Be a national of an IDB member country.\n\u2022 Active student : enrolled in a graduate (master\u2019s or Ph.D.) program as of the starting date of the internship program. The graduation date should be after the Internship period.\n\u2022 Consanguinity : Not have family members (up to the fourth degree of consanguinity and second degree of affinity, including spouse) working at the IDB or IDB Invest.\n\u2022 First job at the IDB Group : Be a first-time participant in an Internship Program held by the Bank or Inter-American Investment Corporation (\u201cCorporation\u201d also known as \u201cIDB Invest\u201d). In addition, you have not been a former staff member, Complementary Workforce (\u201cCW\u201d), contractor for the Bank or the Corporation, or have previously provided services to the Bank or the Corporation through a contractor or under any other contractual modality.\n\nNotes:\n\u2022 Submit your resume, academic transcripts (official or unofficial), and university letter certifying your student status when applying.\n\u2022 If you submit an unofficial academic transcript at the time of applying, you will be requested to present an official one if moving forward.\n\u2022 Academic transcripts and university letters should be issued within the last three months.\n\u2022 For graduate students a minimum of 50% of coursework must be completed when applying.\n\u2022 Applications without the requested documentation will be disqualified.\n\u2022 Save each file in a PDF format with your name and subject.\n\u2022 DO NOT send copies of your degree certificates or other courses.\n\u2022 You must be available to work full-time (40 hours per week) from June 16 to August 15, 2026. These dates are fixed and cannot be modified. Interns must complete their assignments within this period.\n\u2022 If you are an international student in the U.S.A ., your work authorization is through CPT or OPT. Consult your school advisor before applying. You must be able to work 40 hours per week , many international students are limited to working part-time, depending on their academic standing.\n\nType of contract and duration\n\u2022 Type of contract : Intern Consultant\n\u2022 Length of contract : Two (2) months\n\u2022 Dates of the contract: June 16th to August 15th, 2026\n\u2022 Location: Washington, D.C. \u2013 United States of America\n\nOur culture\n\nAt the IDB, we work so everyone brings their best and authentic selves to work while finding their purpose. Our people consistently strive for excellence, and we recognize and celebrate the impact of their contributions.\n\nIn our efforts to drive innovation, we intentionally include all voices, cultivate a sense of belonging and champion fairness. We welcome individuals from underrepresented groups to join us and share their unique perspectives.\n\nWe ensure that individuals with disabilities are provided reasonable accommodations to participate in the job interview process. If you require an accommodation to complete this application, please email us at accommodations@iadb.org .",
+            "job_is_remote": false,
+            "job_posted_at": "11 days ago",
+            "job_posted_at_timestamp": 1771286400,
+            "job_posted_at_datetime_utc": "2026-02-17T00:00:00.000Z",
+            "job_location": "Washington, DC",
+            "job_city": "Washington",
+            "job_state": "District of Columbia",
+            "job_country": "US",
+            "job_latitude": 38.9072873,
+            "job_longitude": -77.0369274,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DXQg7lFw3KIPwfVQRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Education : An active graduate student in areas indicated above from an accredited University",
+                    "The graduation date should be after the Internship period",
+                    "Key Skills : learn continuously, collaborate and share knowledge, focus on clients, communicate and influence, innovate and try new things",
+                    "Python",
+                    "Machine Learning Algorithms and advanced data analytics techniques",
+                    "Microsoft Excel",
+                    "Citizenship : Be a national of an IDB member country",
+                    "Active student : enrolled in a graduate (master\u2019s or Ph.D.) program as of the starting date of the internship program",
+                    "Submit your resume, academic transcripts (official or unofficial), and university letter certifying your student status when applying",
+                    "If you submit an unofficial academic transcript at the time of applying, you will be requested to present an official one if moving forward",
+                    "Academic transcripts and university letters should be issued within the last three months",
+                    "For graduate students a minimum of 50% of coursework must be completed when applying",
+                    "DO NOT send copies of your degree certificates or other courses",
+                    "You must be available to work full-time (40 hours per week) from June 16 to August 15, 2026",
+                    "You must be able to work 40 hours per week , many international students are limited to working part-time, depending on their academic standing"
+                ],
+                "Benefits": [
+                    "The 2026 Summer Internship Program is a competitive paid opportunity, based in Headquarters, for university students from member countries to learn about development work and corporate management of the Bank, and to acquire work experience at the professional level through on-the-job learning",
+                    "Consanguinity : Not have family members (up to the fourth degree of consanguinity and second degree of affinity, including spouse) working at the IDB or IDB Invest",
+                    "First job at the IDB Group : Be a first-time participant in an Internship Program held by the Bank or Inter-American Investment Corporation (\u201cCorporation\u201d also known as \u201cIDB Invest\u201d)",
+                    "Length of contract : Two (2) months"
+                ],
+                "Responsibilities": [
+                    "Collaborate with data analytics research projects led by the Financial Management and Procurement Services - FMP\u2019s data team by cleaning, standardizing, and analyzing data using Python and Power BI",
+                    "Explore advanced analytical techniques to support the objectives of the assigned project",
+                    "Support the design and automation of visualizations of fiduciary indicators in Power BI by using Power Query, DAX functions, and advanced SQL for dynamic data analysis and reporting",
+                    "Write a technical note detailing the results of the assigned research project, the methodology used, and the conclusions",
+                    "Save each file in a PDF format with your name and subject",
+                    "If you are an international student in the U.S.A ., your work authorization is through CPT or OPT"
+                ]
+            },
+            "job_onet_soc": "43911100",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "EzF1DTLKv_bMND4rAAAAAA==",
+            "job_title": "Policy and Data Analysis Intern (Washington DC)",
+            "employer_name": "International Council on Clean Transportation",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHhmUCCTiK0YaOkOpY-eQTez81mwAa1Xkj7jR_&s=0",
+            "employer_website": null,
+            "job_publisher": "Indeed",
+            "job_employment_type": "Internship",
+            "job_employment_types": [
+                "INTERN"
+            ],
+            "job_apply_link": "https://www.indeed.com/viewjob?jk=0fdae84bf7d60e32&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": true,
+            "apply_options": [
+                {
+                    "publisher": "Indeed",
+                    "apply_link": "https://www.indeed.com/viewjob?jk=0fdae84bf7d60e32&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "ZipRecruiter",
+                    "apply_link": "https://www.ziprecruiter.com/c/International-Council-on-Clean-Transportation/Job/Policy-and-Data-Analysis-Intern-(Washington-DC)/-in-Washington,DC?jid=973bde83a6f4c609&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "HiringCafe",
+                    "apply_link": "https://hiring.cafe/jobs/policy-and-data-analysis-intern/locations/washington-district-of-columbia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Glassdoor",
+                    "apply_link": "https://www.glassdoor.com/job-listing/policy-and-data-analysis-intern-washington-dc-international-council-on-clean-transportation-JV_IC1138213_KO0,45_KE46,91.htm?jl=1010023300986&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "LocalJobNetwork.com",
+                    "apply_link": "https://jobs.localjobnetwork.com/job/detail/86181401/Policy-and-Data-Analysis-Intern-Washington-DC?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/policy-and-data-analysis-intern-washington-dc-at-the-international-council-on-clean-transportation-4374675721?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/290467fc83f11619407d3873b4376a44?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Daybook",
+                    "apply_link": "https://www.daybook.com/job/policy-and-data-analysis-intern-washington-dc-zFrSr4mZs2ftktKSB?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "apply_link": "https://www.indeed.com/viewjob?jk=0fdae84bf7d60e32",
+                    "is_direct": null,
+                    "publisher": "Indeed"
+                }
+            ],
+            "job_description": "The International Council on Clean Transportation (ICCT) is an award-winning, independent global non-profit research organization dedicated to designing and implementing policies that address the impacts of the global transportation sector on climate change and public health. We provide high-quality, data-driven research to public officials, as well as to civil society and industry. Our mission-driven and diverse workplace values intelligence, flexibility, transparency, and good humor.\n\nThe ICCT is looking for a Policy and Data Analysis Intern based in either our Washington, D.C. or San Francisco, CA office. This fellowship provides an opportunity to work at the intersection of policy and data analysis to support applied research conducted by internal ICCT programs as well as external partners committed to accelerating transitions to zero-emission electric vehicles. You will report to a Senior Researcher in ICCT\u2019s Modeling Center.\n\nYou Will:\n\u2022 Track and compare environmental transportation policies adopted or proposed by national governments, states, and cities.\n\u2022 Analyze and incorporate datasets relating to fleet/vehicle characteristics and energy/emissions performance into our models.\n\u2022 Help develop inputs and scenarios for transportation models to quantify the impact of policies and technologies on emissions, air quality, public health, and charging infrastructure needs\n\u2022 Co-author reports, journal articles, and other publications\n\nYou Have:\n\u2022 A strong academic record in engineering, economics, policy, transportation, environment, or energy studies as a rising senior or a graduate student.\n\u2022 Demonstrated academic or professional experience in vehicle technology, climate change, air quality, energy, or environmental issues; familiarity with environmental and energy challenges in the transportation sector is preferred.\n\u2022 Superior proficiency in data analysis with Python (pandas, scipy, numpy, matplotlib) or R (tidyverse) alongside Microsoft Excel (pivot tables, lookups, complex conditional statements).\n\u2022 Demonstrated skills in policy or related research, analysis, and presentation.\n\u2022 Excellent interpersonal and English communication skills, both written and verbal.\n\u2022 Ability to work independently and engage effectively with team members.\n\nOur Benefits:\n\nThis is a full-time (40 hours per week) internship opportunity that will be based in our Washington, D.C., or San Francisco office for 12 weeks and have an hourly rate starting at $23.87(DC) or $26.25(SF). Interns are eligible for a limited benefits package, which includes paid time off, internet subsidy, and other benefits. Visa sponsorship is not available for this position.\n\nApplication:\n\nTo apply, please submit a resume and,\n\u2022 a cover letter indicating your interest.\n\u2022 one writing sample primarily written by the applicant (in English) that demonstrates applied research and data analysis capabilities.\n\u2022 one Python or R code sample demonstrating the requisite analysis skills. This should not be a boilerplate code from a course assignment.\n\u2022 the names and contact information of two professional or academic references.\n\nIncomplete applications will be given less priority. A start date between May 18th ,2026 and June 8th ,2026, would be preferred. Applications will be accepted through March 1st, 2026.",
+            "job_is_remote": false,
+            "job_posted_at": "24 days ago",
+            "job_posted_at_timestamp": 1770163200,
+            "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+            "job_location": "Washington, DC",
+            "job_city": "Washington",
+            "job_state": "District of Columbia",
+            "job_country": "US",
+            "job_latitude": 38.9072873,
+            "job_longitude": -77.0369274,
+            "job_benefits": [
+                "paid_time_off",
+                "health_insurance"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DEzF1DTLKv_bMND4rAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_min_salary": 23.87,
+            "job_max_salary": 26.25,
+            "job_salary_period": "HOUR",
+            "job_highlights": {
+                "Qualifications": [
+                    "A strong academic record in engineering, economics, policy, transportation, environment, or energy studies as a rising senior or a graduate student",
+                    "Superior proficiency in data analysis with Python (pandas, scipy, numpy, matplotlib) or R (tidyverse) alongside Microsoft Excel (pivot tables, lookups, complex conditional statements)",
+                    "Demonstrated skills in policy or related research, analysis, and presentation",
+                    "Excellent interpersonal and English communication skills, both written and verbal",
+                    "Ability to work independently and engage effectively with team members",
+                    "one writing sample primarily written by the applicant (in English) that demonstrates applied research and data analysis capabilities",
+                    "one Python or R code sample demonstrating the requisite analysis skills",
+                    "This should not be a boilerplate code from a course assignment",
+                    "the names and contact information of two professional or academic references"
+                ],
+                "Benefits": [
+                    "This is a full-time (40 hours per week) internship opportunity that will be based in our Washington, D.C., or San Francisco office for 12 weeks and have an hourly rate starting at $23.87(DC) or $26.25(SF)",
+                    "Interns are eligible for a limited benefits package, which includes paid time off, internet subsidy, and other benefits"
+                ],
+                "Responsibilities": [
+                    "This fellowship provides an opportunity to work at the intersection of policy and data analysis to support applied research conducted by internal ICCT programs as well as external partners committed to accelerating transitions to zero-emission electric vehicles",
+                    "You will report to a Senior Researcher in ICCT\u2019s Modeling Center",
+                    "Track and compare environmental transportation policies adopted or proposed by national governments, states, and cities",
+                    "Analyze and incorporate datasets relating to fleet/vehicle characteristics and energy/emissions performance into our models",
+                    "Help develop inputs and scenarios for transportation models to quantify the impact of policies and technologies on emissions, air quality, public health, and charging infrastructure needs",
+                    "Co-author reports, journal articles, and other publications"
+                ]
+            },
+            "job_onet_soc": "19309400",
+            "job_onet_job_zone": "5"
+        },
+        {
+            "job_id": "_4EJ0osbHvI4ZkeeAAAAAA==",
+            "job_title": "Digital Analytics intern",
+            "employer_name": "National Retail Federation Inc",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvNXOAt2NkRPjK1-atJx5TWc4s9B0vB7Np1NcK&s=0",
+            "employer_website": null,
+            "job_publisher": "ZipRecruiter",
+            "job_employment_type": "Internship",
+            "job_employment_types": [
+                "INTERN"
+            ],
+            "job_apply_link": "https://www.ziprecruiter.com/c/National-Retail-Federation/Job/Digital-Analytics-intern/-in-Washington,DC?jid=ea373db3bc774425&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": true,
+            "apply_options": [
+                {
+                    "publisher": "ZipRecruiter",
+                    "apply_link": "https://www.ziprecruiter.com/c/National-Retail-Federation/Job/Digital-Analytics-intern/-in-Washington,DC?jid=ea373db3bc774425&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/14b13add72f437c7551eba6e70ee2ff1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "SaluteMyJob",
+                    "apply_link": "https://salutemyjob.com/jobs/digital-analytics-intern-washington-washington-dc/2619829779-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Lensa",
+                    "apply_link": "https://lensa.com/job-v1/national-retail-federation/washington-dc/data-analytics-intern/43a3c224d327204be66a3699351ac442?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobs.weekday.works",
+                    "apply_link": "https://jobs.weekday.works/national-retail-federation-digital-analytics-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Hello.cv",
+                    "apply_link": "https://hello.cv/jobs/share/410573337210589184?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "GrabJobs",
+                    "apply_link": "https://grabjobs.co/us/job/internship/others/digital-analytics-intern-153926700?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobilize",
+                    "apply_link": "https://www.jobilize.com/job/us-dc-washington-digital-analytics-intern-national-retail-federation?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "apply_link": "https://www.ziprecruiter.com/c/National-Retail-Federation/Job/Digital-Analytics-intern/-in-Washington,DC?jid=ea373db3bc774425",
+                    "is_direct": null,
+                    "publisher": "ZipRecruiter"
+                }
+            ],
+            "job_description": "Description\n\nThe National Retail Federation is a trade association that advocates for the people, brands, policies and ideas that help retail succeed. From its headquarters in Washington, D.C., NRF empowers the industry that powers the economy. Retail is the nation's largest private-sector employer, contributing $5.3 trillion to annual GDP and supporting more than one in four U.S. jobs. For over a century, NRF has been a voice for every retailer and every retail job, educating, inspiring and communicating the powerful impact retail has on local communities and global economies.\n\nWe have exciting internship opportunities for college students to learn valuable insights about the retail industry and the role of a trade association. Do you have a passion for the retail industry? Do you enjoy learning and gaining hands-on experience working with a team? If yes, this may be the summer internship for you. Interested candidates should apply with a resume and cover letter by February 20, 2026, to be considered.\n\nProgram Dates: June 1, 2026 - July 30, 2026\n\nHourly Rate: $25 - $28\n\nLocation: Washington, D.C. Office\n\nWork Model: Hybrid - In-office Tuesday, Wednesday, and Thursday; remote Monday and Friday\n\nThe Digital Analytics Intern will support NRF's Marketing & Technology teams by helping establish, refine, and operationalize unified measurement across NRF's marketing ecosystem. This role focuses on helping NRF enable accurate, consistent tracking across marketing efforts, web channels, and other digital touchpoints, primarily within Google Analytics 4 (GA4) but also could include other sources from our marketing technology stack.\n\nThis role requires a self-starter with prior hands-on experience implementing or maintaining digital analytics. The ideal candidate brings curiosity, strong problem-solving skills, and with guidance, the ability to independently figure out how to configure tracking, validate data, and translate insights into recommendations.\n\nEssential Functions\n\u2022 With oversight and guidance, independently set up, validate, and refine GA4 tracking, including events, parameters, naming conventions, audiences, and conversions\n\u2022 Assist in unifying analytics across channels including:\n\nPaid Media: Meta, LinkedIn, Google Ads\n\nOwned Media: Email, Website, Landing Pages\n\nEarned Media: SEO, organic search, referral traffic\n\u2022 Ensure accurate, consistent, and thorough data capture across all NRF marketing platforms and customer-facing digital touchpoints.\n\u2022 Support proper UTM governance, attribution consistency, and channel taxonomy\n\u2022 Develop and maintain reports, dashboards and automated reports in GA4, Looker Studio, Tableau, or similar platforms to track:\n\nLead generation\n\nContent engagement & topic performance\n\nEvent registrations\n\nAudience behavior across channels\n\u2022 Conduct ad-hoc analyses to uncover insights around audience engagement, channel performance, and opportunities for optimization\n\u2022 Perform analytics QA, including event firing validation, troubleshooting misfiring tags, verifying attribution, and documenting fixes\n\u2022 Prepare clear insights that explain what happened, why it matters, and what actions are recommended\n\u2022 Collaborate across Marketing, Events, Digital, Tech, and Membership teams to ensure measurement supports organizational goals\n\u2022 Assist with SEO analytics, including Search Console and content topic performance\n\u2022 Perform other duties as assigned\n\nRequirements\n\nMinimum Qualifications\n\u2022 Current undergraduate student with at least sophomore standing, pursuing a degree in Marketing Analytics, Data Science, Business Analytics, Digital Marketing, Content Marketing, Computer Science, or related field\n\u2022 Prior hands-on experience with GA4 or similar analytics tools (via internships, co-ops, coursework, freelance, or personal projects)\n\u2022 Experience with Google Tag Manager or other tagging platforms\n\u2022 Ability to independently research solutions, test configurations, troubleshoot tracking issues, and self-direct work with minimal guidance\n\u2022 Familiarity with cross-channel digital marketing (paid media, email, SEO, content analytics) and key performance metrics\n\u2022 Experience building reports or dashboards in GA4, Looker Studio, Tableau, or similar tools\n\u2022 Strong analytical thinking, problem-solving skills, and comfort working through ambiguous technical challenges\n\u2022 Excellent written and verbal communication skills, including the ability to translate technical results for non-technical stakeholders\n\u2022 Strong organizational skills, attention to detail, and ability to manage multiple projects simultaneously\n\nPreferred Qualifications\n\u2022 Rising undergraduate senior or current graduate student\n\u2022 Exposure to broader marketing technology ecosystems or data governance concepts\n\u2022 Demonstrated curiosity, initiative, and resourcefulness when working with data or technical systems\n\nApplication Deadline: Must apply by February 20, 2026, for consideration.\n\nThe National Retail Federation is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability, veteran status, sexual orientation, gender identity, or any other protected status.",
+            "job_is_remote": false,
+            "job_posted_at": "22 days ago",
+            "job_posted_at_timestamp": 1770336000,
+            "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
+            "job_location": "Washington, DC",
+            "job_city": "Washington",
+            "job_state": "District of Columbia",
+            "job_country": "US",
+            "job_latitude": 38.9072873,
+            "job_longitude": -77.0369274,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_4EJ0osbHvI4ZkeeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_min_salary": 25,
+            "job_max_salary": 28,
+            "job_salary_period": "HOUR",
+            "job_highlights": {
+                "Qualifications": [
+                    "Interested candidates should apply with a resume and cover letter by February 20, 2026, to be considered",
+                    "This role requires a self-starter with prior hands-on experience implementing or maintaining digital analytics",
+                    "The ideal candidate brings curiosity, strong problem-solving skills, and with guidance, the ability to independently figure out how to configure tracking, validate data, and translate insights into recommendations",
+                    "Current undergraduate student with at least sophomore standing, pursuing a degree in Marketing Analytics, Data Science, Business Analytics, Digital Marketing, Content Marketing, Computer Science, or related field",
+                    "Prior hands-on experience with GA4 or similar analytics tools (via internships, co-ops, coursework, freelance, or personal projects)",
+                    "Experience with Google Tag Manager or other tagging platforms",
+                    "Ability to independently research solutions, test configurations, troubleshoot tracking issues, and self-direct work with minimal guidance",
+                    "Familiarity with cross-channel digital marketing (paid media, email, SEO, content analytics) and key performance metrics",
+                    "Experience building reports or dashboards in GA4, Looker Studio, Tableau, or similar tools",
+                    "Strong analytical thinking, problem-solving skills, and comfort working through ambiguous technical challenges",
+                    "Excellent written and verbal communication skills, including the ability to translate technical results for non-technical stakeholders",
+                    "Strong organizational skills, attention to detail, and ability to manage multiple projects simultaneously",
+                    "Application Deadline: Must apply by February 20, 2026, for consideration"
+                ],
+                "Benefits": [
+                    "Hourly Rate: $25 - $28"
+                ],
+                "Responsibilities": [
+                    "Program Dates: June 1, 2026 - July 30, 2026",
+                    "Work Model: Hybrid - In-office Tuesday, Wednesday, and Thursday; remote Monday and Friday",
+                    "The Digital Analytics Intern will support NRF's Marketing & Technology teams by helping establish, refine, and operationalize unified measurement across NRF's marketing ecosystem",
+                    "This role focuses on helping NRF enable accurate, consistent tracking across marketing efforts, web channels, and other digital touchpoints, primarily within Google Analytics 4 (GA4) but also could include other sources from our marketing technology stack",
+                    "With oversight and guidance, independently set up, validate, and refine GA4 tracking, including events, parameters, naming conventions, audiences, and conversions",
+                    "Assist in unifying analytics across channels including:",
+                    "Ensure accurate, consistent, and thorough data capture across all NRF marketing platforms and customer-facing digital touchpoints",
+                    "Support proper UTM governance, attribution consistency, and channel taxonomy",
+                    "Develop and maintain reports, dashboards and automated reports in GA4, Looker Studio, Tableau, or similar platforms to track:",
+                    "Lead generation",
+                    "Audience behavior across channels",
+                    "Conduct ad-hoc analyses to uncover insights around audience engagement, channel performance, and opportunities for optimization",
+                    "Perform analytics QA, including event firing validation, troubleshooting misfiring tags, verifying attribution, and documenting fixes",
+                    "Prepare clear insights that explain what happened, why it matters, and what actions are recommended",
+                    "Collaborate across Marketing, Events, Digital, Tech, and Membership teams to ensure measurement supports organizational goals",
+                    "Assist with SEO analytics, including Search Console and content topic performance",
+                    "Perform other duties as assigned"
+                ]
+            },
+            "job_onet_soc": "55301800",
+            "job_onet_job_zone": null
+        },
+        {
+            "job_id": "c-g4_uJ8_U6EL3lIAAAAAA==",
+            "job_title": "Data Analytics Intern",
+            "employer_name": "Intermountain Health",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqL6JaIPfLUV_qmXPoWN1pRZyoINH8nX7SappR&s=0",
+            "employer_website": "https://intermountainhealthcare.org",
+            "job_publisher": "BeBee",
+            "job_employment_type": "Internship",
+            "job_employment_types": [
+                "INTERN"
+            ],
+            "job_apply_link": "https://us.bebee.com/job/86f67c03e8a8ffc3eb2b5232dccfa1bd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/86f67c03e8a8ffc3eb2b5232dccfa1bd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "apply_link": "https://us.bebee.com/job/86f67c03e8a8ffc3eb2b5232dccfa1bd",
+                    "is_direct": null,
+                    "publisher": "BeBee"
+                }
+            ],
+            "job_description": "\u2022 *Job Description**:\n\nThe Shared Services Analytics Team supports multiple business functions by analyzing data from our Enterprise Data Platform. This includes creating custom reports and visualizations using tools like SQL and Tableau.\n\u2022 Average 40 hours/week\nMission Statement:\n\nData-driven decision-making through collaborative analytics efforts",
+            "job_is_remote": false,
+            "job_posted_at": "5 days ago",
+            "job_posted_at_timestamp": 1771804800,
+            "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
+            "job_location": "Washington, DC",
+            "job_city": "Washington",
+            "job_state": "District of Columbia",
+            "job_country": "US",
+            "job_latitude": 38.9072873,
+            "job_longitude": -77.0369274,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dc-g4_uJ8_U6EL3lIAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Responsibilities": [
+                    "The Shared Services Analytics Team supports multiple business functions by analyzing data from our Enterprise Data Platform",
+                    "This includes creating custom reports and visualizations using tools like SQL and Tableau",
+                    "Average 40 hours/week",
+                    "Data-driven decision-making through collaborative analytics efforts"
+                ]
+            },
+            "job_onet_soc": "43911100",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "vFzc__Z4MOFu1hFAAAAAAA==",
+            "job_title": "Data Scientist - Intern",
+            "employer_name": "Lensa",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0EfPVHF5N0I08Ioa1WKZDYxcfrJkurRgwcHI5&s=0",
+            "employer_website": "https://lensa.com",
+            "job_publisher": "LinkedIn",
+            "job_employment_type": "Internship",
+            "job_employment_types": [
+                "INTERN"
+            ],
+            "job_apply_link": "https://www.linkedin.com/jobs/view/data-scientist-intern-at-lensa-4376339254?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/data-scientist-intern-at-lensa-4376339254?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobilize",
+                    "apply_link": "https://www.jobilize.com/amp/job/us-dc-washington-data-scientist-intern-intermountain-health-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "TryApplyNow",
+                    "apply_link": "https://www.tryapplynow.com/jobs/lensa-data-scientist-intern-83011826-f10c-4b0f-9dad-63901d4f6029?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "apply_link": "https://www.linkedin.com/jobs/view/data-scientist-intern-at-lensa-4376339254",
+                    "is_direct": null,
+                    "publisher": "LinkedIn"
+                }
+            ],
+            "job_description": "Lensa is a career site that helps job seekers find great jobs in the US. We are not a staffing firm or agency. Lensa does not hire directly for these jobs, but promotes jobs on LinkedIn on behalf of its direct clients, recruitment ad agencies, and marketing partners. Lensa partners with DirectEmployers to promote this job for Intermountain Health. Clicking \"Apply Now\" or \"Read more\" on Lensa redirects you to the job board/employer site. Any information collected there is subject to their terms and privacy notice.\n\nJob Description\n\nIntermountain Health uses industry leading data science and artificial intelligence to deliver on its mission to \"Help people have the healthiest lives possible\"; making healthcare more affordable and higher quality; and making a difference in the patients and communities it serves. As a Data Science Intern, you will work as a member of the Enterprise AI Center of Enablement to develop AI products that will create impact for the communities and patients we serve.\n\nPlease note that a video interview through Microsoft Teams will be required as well as potential onsite interviews and meetings.\n\nWe are committed to offering flexible work options where approved and stated in the job posting. However, we are currently not considering candidates who reside or plan to reside in the following states: California, Connecticut, Hawaii, Illinois, New York, Pennsylvania, Rhode Island, Vermont, and Washington.\n\nJob Essentials\n\nThis role helps develop AI and ML solutions as part of the Enterprise AI Center of Enablement. This is a remote internship. Incumbent will work Monday-Friday, during regular business hours\n\nSkills\n\u2022 Statistical modeling\n\u2022 Machine learning techniques\n\u2022 Python programming\n\u2022 Effective communication\n\u2022 Team collaboration\n\nMinimum Qualifications\n\u2022 Understanding of statistical and machine learning modeling techniques\n\u2022 Experience programming using quantitative, procedural, and statistical programming languages such as Python, SQL, Spark, and Matlab.\n\u2022 Experience in a role requiring effective verbal, written and interpersonal communication skills.\n\nPreferred Qualifications\n\u2022 Enrolled in a higher education institution with a focus on mathematics, computer science, data science, or other quantitative and technical field.\n\nLocation:\n\nKey Bank Tower\n\nWork City\n\nSalt Lake City\n\nWork State\n\nUtah\n\nScheduled Weekly Hours\n\n40\n\nThe hourly range for this position is listed below. Actual hourly rate dependent upon experience.\n\n$21.49 - $31.73\n\nWe care about your well-being - mind, body, and spirit - which is why we provide our caregivers a generous benefits package that covers a wide range of programs to foster a sustainable culture of wellness that encompasses living healthy, happy, secure, connected, and engaged.\n\nLearn more about our comprehensive benefits package here (https://intermountainhealthcare.org/careers/benefits) .\n\nIntermountain Health is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.\n\nAt Intermountain Health, we use the artificial intelligence (\"AI\") platform, HiredScore to improve your job application experience. HiredScore helps match your skills and experiences to the best jobs for you. While HiredScore assists in reviewing applications, all final decisions are made by Intermountain personnel to ensure fairness. We protect your privacy and follow strict data protection rules. Your information is safe and used only for recruitment. Thank you for considering a career with us and experiencing our AI-enhanced recruitment process.\n\nAll positions subject to close without notice.\n\nIf you have questions about this posting, please contact support@lensa.com",
+            "job_is_remote": false,
+            "job_posted_at": "7 days ago",
+            "job_posted_at_timestamp": 1771632000,
+            "job_posted_at_datetime_utc": "2026-02-21T00:00:00.000Z",
+            "job_location": "Washington, DC",
+            "job_city": "Washington",
+            "job_state": "District of Columbia",
+            "job_country": "US",
+            "job_latitude": 38.9072873,
+            "job_longitude": -77.0369274,
+            "job_benefits": [
+                "health_insurance"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DvFzc__Z4MOFu1hFAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_min_salary": 21.49,
+            "job_max_salary": 31.73,
+            "job_salary_period": "HOUR",
+            "job_highlights": {
+                "Qualifications": [
+                    "Statistical modeling",
+                    "Machine learning techniques",
+                    "Python programming",
+                    "Effective communication",
+                    "Team collaboration",
+                    "Understanding of statistical and machine learning modeling techniques",
+                    "Experience programming using quantitative, procedural, and statistical programming languages such as Python, SQL, Spark, and Matlab",
+                    "Experience in a role requiring effective verbal, written and interpersonal communication skills"
+                ],
+                "Benefits": [
+                    "The hourly range for this position is listed below",
+                    "Actual hourly rate dependent upon experience",
+                    "$21.49 - $31.73",
+                    "We care about your well-being - mind, body, and spirit - which is why we provide our caregivers a generous benefits package that covers a wide range of programs to foster a sustainable culture of wellness that encompasses living healthy, happy, secure, connected, and engaged"
+                ],
+                "Responsibilities": [
+                    "This role helps develop AI and ML solutions as part of the Enterprise AI Center of Enablement",
+                    "Incumbent will work Monday-Friday, during regular business hours"
+                ]
+            },
+            "job_onet_soc": "15111100",
+            "job_onet_job_zone": "5"
+        },
+        {
+            "job_id": "URu4JEP_lIoAEs0FAAAAAA==",
+            "job_title": "IDB. Global Partnerships Data Analyst Support Intern",
+            "employer_name": "Inter-American Development Bank",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlCngC4QHAplO4qmEmmvTeTv9A8h63-MMozMYD&s=0",
+            "employer_website": null,
+            "job_publisher": "Indeed",
+            "job_employment_type": "Full-time, Part-time, and Contractor",
+            "job_employment_types": [
+                "FULLTIME",
+                "PARTTIME",
+                "CONTRACTOR"
+            ],
+            "job_apply_link": "https://www.indeed.com/viewjob?jk=af53d4f2c958cda1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Indeed",
+                    "apply_link": "https://www.indeed.com/viewjob?jk=af53d4f2c958cda1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Hiring Cafe",
+                    "apply_link": "https://hiring.cafe/jobs/gis-data-and-documentation-support-intern/locations/washington-district-of-columbia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Glassdoor",
+                    "apply_link": "https://www.glassdoor.com/job-listing/idb-gis-data-and-documentation-support-intern-inter-american-development-bank-JV_IC1138213_KO0,45_KE46,77.htm?jl=1010036103840&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobright",
+                    "apply_link": "https://jobright.ai/jobs/info/699428c8e0bddb6acac28ed4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/idb-global-partnerships-data-analyst-support-intern-at-inter-american-development-bank-4371946573?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/45e2a1280ade049cd7a9228484333394?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "SimplyHired",
+                    "apply_link": "https://www.simplyhired.com/job/W-rLbekHdT04ajM03rTgD0osOCPfSe62aHvrmsaz40oQlLrjScjDUg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "J-O-B-Z",
+                    "apply_link": "https://j-o-b-z.com/seo/job/136670025/dc/washington/idb-global-partnerships-data-analyst-support-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "apply_link": "https://www.indeed.com/viewjob?jk=af53d4f2c958cda1",
+                    "is_direct": null,
+                    "publisher": "Indeed"
+                }
+            ],
+            "job_description": "City: Washington DC\n\nCompany: IDB\n\nPosting End Date: 3/8/2026 11:59 PM EST\n\nIDB- 2026 Summer Internship Program\n\nGraduate Intern\n\nWe improve lives\n\nThe IDB Group is a community of diverse, versatile, and passionate people who come together on a journey to improve lives in Latin America and the Caribbean. Our people find purpose and do what they love in an inclusive, collaborative, agile, and rewarding environment.\n\nAbout this position\n\nThe IDB Group is looking for an active graduate student to be hired as an intern under the Consultant modality.\n\nThe 2026 Summer Internship Program is a competitive paid opportunity, based in Headquarters, for university students from member countries to learn about development work and corporate management of the Bank, and to acquire work experience at the professional level through on-the-job learning.\n\nWhat you\u2019ll do\n\u2022 Collaborate with the data analytics team within the Grants and Cofinancing Management Unit (GPS/GCM)\u2019s data team by cleaning, standardizing, and analyzing data using Python and PowerBI.\n\u2022 Support the design and automation of visualizations of grant indicators.\n\u2022 Support the maintenance and creation of GCM\u2019s dashboards.\n\u2022 Support data quality validation and consistency checks across multiple data sources, helping identify discrepancies and improve reporting reliability.\n\u2022 Assist in data preparation and transformation processes to ensure analytics-ready datasets for reporting and ad hoc analysis.\n\u2022 Contribute to data documentation and knowledge sharing, including dashboard metadata, data definitions, and analytical assumptions, to support transparency and reuse across the GCM data ecosystem.\n\nWhat you'll need\n\u2022 Education : An active graduate student in Data Science or similar, from an accredited University. The graduation date should be after the Internship period.\n\u2022 Languages : Fluency in English with a working knowledge of one other Bank language (Spanish, French, or Portuguese) is a plus.\n\u2022 Key Skills : learn continuously, collaborate and share knowledge, focus on clients, communicate and influence, innovate and try new things\n\u2022 Technical skills: Power Bi, Salesforce, Sharepoint, SQL.\n\nRequirements\n\u2022 Citizenship : Be a national of an IDB member country.\n\u2022 Active student : enrolled in a graduate (master\u2019s or Ph.D.) program as of the starting date of the internship program. The graduation date should be after the Internship period.\n\u2022 Consanguinity : Not have family members (up to the fourth degree of consanguinity and second degree of affinity, including spouse) working at the IDB or IDB Invest.\n\u2022 First job at the IDB Group : Be a first-time participant in an Internship Program held by the Bank or Inter-American Investment Corporation (\u201cCorporation\u201d also known as \u201cIDB Invest\u201d). In addition, you have not been a former staff member, Complementary Workforce (\u201cCW\u201d), contractor for the Bank or the Corporation, or have previously provided services to the Bank or the Corporation through a contractor or under any other contractual modality.\n\nNotes:\n\u2022 Submit your resume, academic transcripts (official or unofficial), and university letter certifying your student status when applying.\n\u2022 If you submit an unofficial academic transcript at the time of applying, you will be requested to present an official one if moving forward.\n\u2022 Academic transcripts and university letters should be issued within the last three months.\n\u2022 For graduate students a minimum of 50% of coursework must be completed when applying.\n\u2022 Applications without the requested documentation will be disqualified.\n\u2022 Save each file in a PDF format with your name and subject.\n\u2022 DO NOT send copies of your degree certificates or other courses.\n\u2022 You must be available to work full-time (40 hours per week) from June 16 to August 15, 2026. These dates are fixed and cannot be modified. Interns must complete their assignments within this period.\n\u2022 If you are an international student in the U.S.A ., your work authorization is through CPT or OPT. Consult your school advisor before applying. You must be able to work 40 hours per week , many international students are limited to working part-time, depending on their academic standing.\n\nType of contract and duration\n\u2022 Type of contract : Intern Consultant\n\u2022 Length of contract : Two (2) months\n\u2022 Dates of the contract: June 16th to August 15th, 2026\n\u2022 Location: Washington, D.C. \u2013 United States of America\n\nOur culture\n\nAt the IDB, we work so everyone brings their best and authentic selves to work while finding their purpose. Our people consistently strive for excellence, and we recognize and celebrate the impact of their contributions.\n\nIn our efforts to drive innovation, we intentionally include all voices, cultivate a sense of belonging and champion fairness. We welcome individuals from underrepresented groups to join us and share their unique perspectives.\n\nWe ensure that individuals with disabilities are provided reasonable accommodations to participate in the job interview process. If you require an accommodation to complete this application, please email us at accommodations@iadb.org .",
+            "job_is_remote": false,
+            "job_posted_at": "11 days ago",
+            "job_posted_at_timestamp": 1771286400,
+            "job_posted_at_datetime_utc": "2026-02-17T00:00:00.000Z",
+            "job_location": "Washington, DC",
+            "job_city": "Washington",
+            "job_state": "District of Columbia",
+            "job_country": "US",
+            "job_latitude": 38.9072873,
+            "job_longitude": -77.0369274,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DURu4JEP_lIoAEs0FAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Education : An active graduate student in Data Science or similar, from an accredited University",
+                    "The graduation date should be after the Internship period",
+                    "Key Skills : learn continuously, collaborate and share knowledge, focus on clients, communicate and influence, innovate and try new things",
+                    "Technical skills: Power Bi, Salesforce, Sharepoint, SQL",
+                    "Citizenship : Be a national of an IDB member country",
+                    "Active student : enrolled in a graduate (master\u2019s or Ph.D.) program as of the starting date of the internship program",
+                    "Submit your resume, academic transcripts (official or unofficial), and university letter certifying your student status when applying",
+                    "If you submit an unofficial academic transcript at the time of applying, you will be requested to present an official one if moving forward",
+                    "Academic transcripts and university letters should be issued within the last three months",
+                    "For graduate students a minimum of 50% of coursework must be completed when applying",
+                    "DO NOT send copies of your degree certificates or other courses",
+                    "You must be available to work full-time (40 hours per week) from June 16 to August 15, 2026",
+                    "You must be able to work 40 hours per week , many international students are limited to working part-time, depending on their academic standing"
+                ],
+                "Benefits": [
+                    "The 2026 Summer Internship Program is a competitive paid opportunity, based in Headquarters, for university students from member countries to learn about development work and corporate management of the Bank, and to acquire work experience at the professional level through on-the-job learning",
+                    "Consanguinity : Not have family members (up to the fourth degree of consanguinity and second degree of affinity, including spouse) working at the IDB or IDB Invest",
+                    "First job at the IDB Group : Be a first-time participant in an Internship Program held by the Bank or Inter-American Investment Corporation (\u201cCorporation\u201d also known as \u201cIDB Invest\u201d)",
+                    "Length of contract : Two (2) months"
+                ],
+                "Responsibilities": [
+                    "Collaborate with the data analytics team within the Grants and Cofinancing Management Unit (GPS/GCM)\u2019s data team by cleaning, standardizing, and analyzing data using Python and PowerBI",
+                    "Support the design and automation of visualizations of grant indicators",
+                    "Support the maintenance and creation of GCM\u2019s dashboards",
+                    "Support data quality validation and consistency checks across multiple data sources, helping identify discrepancies and improve reporting reliability",
+                    "Assist in data preparation and transformation processes to ensure analytics-ready datasets for reporting and ad hoc analysis",
+                    "Contribute to data documentation and knowledge sharing, including dashboard metadata, data definitions, and analytical assumptions, to support transparency and reuse across the GCM data ecosystem",
+                    "Save each file in a PDF format with your name and subject",
+                    "If you are an international student in the U.S.A ., your work authorization is through CPT or OPT"
+                ]
+            },
+            "job_onet_soc": "43911100",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "qTAjXo35Tjhgby9LAAAAAA==",
+            "job_title": "Museum Store Sales Analyst Internship - Bible Category Analytics",
+            "employer_name": "Museum of the Bible",
+            "employer_logo": null,
+            "employer_website": "https://www.museumofthebible.org",
+            "job_publisher": "ZipRecruiter",
+            "job_employment_type": "Internship",
+            "job_employment_types": [
+                "INTERN"
+            ],
+            "job_apply_link": "https://www.ziprecruiter.com/c/Museum-of-the-Bible/Job/Museum-Store-Sales-Analyst-Internship-Bible-Category-Analytics/-in-Washington,DC?jid=e85675f0a1d8f0ab&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": true,
+            "apply_options": [
+                {
+                    "publisher": "ZipRecruiter",
+                    "apply_link": "https://www.ziprecruiter.com/c/Museum-of-the-Bible/Job/Museum-Store-Sales-Analyst-Internship-Bible-Category-Analytics/-in-Washington,DC?jid=e85675f0a1d8f0ab&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/museum-store-sales-analyst-internship-%E2%80%93-bible-category-analytics-at-museum-of-the-bible-4378609305?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/4f8406c2ede54d5d9b0f76bd56586ff7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobilize",
+                    "apply_link": "https://www.jobilize.com/job/us-district-columbia-washington-museum-store-sales-analyst-internship?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "apply_link": "https://www.ziprecruiter.com/c/Museum-of-the-Bible/Job/Museum-Store-Sales-Analyst-Internship-Bible-Category-Analytics/-in-Washington,DC?jid=e85675f0a1d8f0ab",
+                    "is_direct": null,
+                    "publisher": "ZipRecruiter"
+                }
+            ],
+            "job_description": "Museum Store Sales Analyst Internship \u2013 Bible Category Analytics\nDate Posted: February 26, 2026\nApplication Deadline: March 31, 2026\nJob Title: Museum Store Sales Analyst Intern\nEmployer Status: Intern \u2013 Unpaid\nReports to: Senior Store Manager / Book Buyer\nLocation: Washington, D.C.\n\nPosition Summary:\nThe Museum Store Sales Analyst Internship offers students an opportunity to gain hands\u2011on experience in retail analytics, category performance evaluation, and product research within a museum retail environment. The intern will focus heavily on analyzing the Museum Store\u2019s extensive Bible assortment and understanding how product features, pricing, and industry trends influence sales, turns, and overall category productivity. This internship provides valuable exposure to museum retail operations, data analysis, and merchandising strategy.\n\nDuties and Responsibilities:\nResponsibilities include, but are not limited to:\n\u2022 Analyzing Bible formats including pocket, compact, comfort print, thinline, study, chronological, journaling, jumbo/large print, and specialty editions\n\u2022 Reviewing physical features such as color, size, binding, typography, cover materials, and functional design\n\u2022 Evaluating price points and identifying value tiers within the Bible assortment\n\u2022 Researching Bible publishing industry trends and comparing them to Museum Store performance\n\u2022 Analyzing SKU productivity including sell\u2011through, turns, margins, and category contribution\n\u2022 Reviewing how individual Bible SKUs impact the sales or turns of other Bibles (complementary vs. cannibalization effects)\n\u2022 Calculating retail performance metrics such as dollars per square foot and category productivity\n\u2022 Creating weekly or monthly reports summarizing insights for the Senior Store Manager / Book Buyer\n\u2022 Assisting with periodic inventory checks and shelf evaluations\n\nEducation:\n\u2022 Undergraduate or graduate student majoring in Business, Retail Management, Data Analytics, Biblical Studies, Museum Studies, Marketing, Economics, or related field.\n\nQualifications:\n\u2022 Must be currently enrolled in or a recent graduate from a college or university\n\u2022 Must be highly sensitive to confidentiality, especially regarding sales data\n\u2022 Strong analytical skills and attention to detail\n\u2022 Excellent written and verbal communication skills\n\u2022 Ability to manage projects independently and follow assignments through to completion\n\u2022 Comfort working with spreadsheets, POS reports, and product data\n\u2022 Interest in Bible publishing, specialty retail, analytics, or museum store operations preferred\n\u2022 Ability to lift and carry moderately heavy objects (up to 30 lbs)\n\u2022 Ability to stand, crouch, and perform light physical activity during merchandising or inventory tasks\n\nSkills:\n\u2022 Data Management\n\u2022 Analytical Thinking\n\u2022 Product Evaluation\n\u2022 Ability to Prioritize\n\u2022 Report Writing\n\nWork Environment:\n\u2022 Physical demands:\n\u2022 Ability to lift up to 30 lbs\n\u2022 Ability to crouch, climb, balance, sit, and stand for long periods during product evaluation or inventory work",
+            "job_is_remote": false,
+            "job_posted_at": "2 days ago",
+            "job_posted_at_timestamp": 1772064000,
+            "job_posted_at_datetime_utc": "2026-02-26T00:00:00.000Z",
+            "job_location": "Washington, DC",
+            "job_city": "Washington",
+            "job_state": "District of Columbia",
+            "job_country": "US",
+            "job_latitude": 38.9072873,
+            "job_longitude": -77.0369274,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DqTAjXo35Tjhgby9LAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Undergraduate or graduate student majoring in Business, Retail Management, Data Analytics, Biblical Studies, Museum Studies, Marketing, Economics, or related field",
+                    "Must be currently enrolled in or a recent graduate from a college or university",
+                    "Must be highly sensitive to confidentiality, especially regarding sales data",
+                    "Strong analytical skills and attention to detail",
+                    "Excellent written and verbal communication skills",
+                    "Ability to manage projects independently and follow assignments through to completion",
+                    "Comfort working with spreadsheets, POS reports, and product data",
+                    "Ability to lift and carry moderately heavy objects (up to 30 lbs)",
+                    "Ability to stand, crouch, and perform light physical activity during merchandising or inventory tasks",
+                    "Data Management",
+                    "Analytical Thinking",
+                    "Product Evaluation",
+                    "Ability to Prioritize",
+                    "Report Writing",
+                    "Ability to lift up to 30 lbs",
+                    "Ability to crouch, climb, balance, sit, and stand for long periods during product evaluation or inventory work"
+                ],
+                "Responsibilities": [
+                    "The Museum Store Sales Analyst Internship offers students an opportunity to gain hands\u2011on experience in retail analytics, category performance evaluation, and product research within a museum retail environment",
+                    "The intern will focus heavily on analyzing the Museum Store\u2019s extensive Bible assortment and understanding how product features, pricing, and industry trends influence sales, turns, and overall category productivity",
+                    "This internship provides valuable exposure to museum retail operations, data analysis, and merchandising strategy",
+                    "Analyzing Bible formats including pocket, compact, comfort print, thinline, study, chronological, journaling, jumbo/large print, and specialty editions",
+                    "Reviewing physical features such as color, size, binding, typography, cover materials, and functional design",
+                    "Evaluating price points and identifying value tiers within the Bible assortment",
+                    "Researching Bible publishing industry trends and comparing them to Museum Store performance",
+                    "Analyzing SKU productivity including sell\u2011through, turns, margins, and category contribution",
+                    "Reviewing how individual Bible SKUs impact the sales or turns of other Bibles (complementary vs. cannibalization effects)",
+                    "Calculating retail performance metrics such as dollars per square foot and category productivity",
+                    "Creating weekly or monthly reports summarizing insights for the Senior Store Manager / Book Buyer",
+                    "Assisting with periodic inventory checks and shelf evaluations"
+                ]
+            },
+            "job_onet_soc": "25401300",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "BeQGDEIeckbB0U6kAAAAAA==",
+            "job_title": "IDB. Data Collection and Analysis for Disaster and Climate Risk Portfolio Monitoring Internship",
+            "employer_name": "Inter-American Development Bank",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSS0HvdlVYrBX36yxT6JhMq0RA0J_--oKQo02w&s=0",
+            "employer_website": null,
+            "job_publisher": "LinkedIn",
+            "job_employment_type": "Internship",
+            "job_employment_types": [
+                "INTERN"
+            ],
+            "job_apply_link": "https://www.linkedin.com/jobs/view/idb-data-collection-and-analysis-for-disaster-and-climate-risk-portfolio-monitoring-internship-at-inter-american-development-bank-4371948412?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/idb-data-collection-and-analysis-for-disaster-and-climate-risk-portfolio-monitoring-internship-at-inter-american-development-bank-4371948412?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/10e048b84c3ac15cf557a2e79c55d52a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobright",
+                    "apply_link": "https://jobright.ai/jobs/info/69942cdee0bddb6acac292f2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "HiringCafe",
+                    "apply_link": "https://hiring.cafe/viewjob/1p2gmc5onz34tpfj?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "MindMyJob",
+                    "apply_link": "https://www.mindmyjob.com/job/idb-data-collection-and-analysis-for-disaster-and-climate-risk-portfolio-monitoring-internship-washington-dc-11504?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobs Trabajo.org",
+                    "apply_link": "https://us.trabajo.org/job-4112-2635f3651cbd8d3f75e2036b8f91f38f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "apply_link": "https://www.linkedin.com/jobs/view/idb-data-collection-and-analysis-for-disaster-and-climate-risk-portfolio-monitoring-internship-at-inter-american-development-bank-4371948412",
+                    "is_direct": null,
+                    "publisher": "LinkedIn"
+                }
+            ],
+            "job_description": "\u2022 This is a 2 months paid internship with location in our Headquarters in Washington DC. We offer visa sponsorship.\n\nIDB- 2026 Summer Internship Program\n\nGraduate Intern\n\nLocation: Washington, D.C. United States\n\nThe IDB Group is a community of diverse, versatile, and passionate people who come together on a journey to improve lives in Latin America and the Caribbean. Our people find purpose and do what they love in an inclusive, collaborative, agile, and rewarding environment.\n\nAbout This Position\n\nThe IDB Group is looking for an active graduate student to be hired as an intern under the Consultant modality.\n\nThe 2026 Summer Internship Program is a competitive paid opportunity, based in Headquarters, for university students from member countries to learn about development work and corporate management of the Bank, and to acquire work experience at the professional level through on-the-job learning.\n\nWhat you\u2019ll do\n\u2022 In coordination with the Environmental and Social Risk Management Group (RMG/ESR), design and implement a process for aggregating project-level data, facilitating portfolio-level insights and in-depth trend analysis on disaster and climate change risk management.\n\u2022 Collect project-level data on disaster and climate change risk from IDB projects\u2019 documentation.\n\u2022 Develop a comprehensive database to enable efficient storage, retrieval, and analysis of collected data.\n\u2022 Integrate validated datasets into existing visualization tools to enhance disaster and climate change risk monitoring and portfolio-level reporting capabilities.\n\u2022 Document data capture, aggregation, and integration of workflow steps to facilitate transparency and process improvement.\n\nWhat you'll need\n\u2022 Education: An active graduate student in sustainability, climate change, environmental and social risk management and/or data management from an accredited University. The graduation date should be after the Internship period.\n\u2022 Languages: Fluency in English with a working knowledge of one other Bank language (Spanish, French, or Portuguese) is a plus.\n\u2022 Key Skills: Learn continuously, collaborate and share knowledge, focus on clients, communicate and influence, innovate and try new things\n\u2022 Technical skills: Intermediate to advance knowledge on climate change risk, environmental and social sustainability and demonstrated experience in data management, mapping tools and similar.\n\nRequirements\n\u2022 Citizenship: Be a national of an IDB member country.\n\u2022 Active student: enrolled in a graduate (master\u2019s or Ph.D.) program as of the starting date of the internship program. The graduation date should be after the Internship period.\n\u2022 Consanguinity: Not have family members (up to the fourth degree of consanguinity and second degree of affinity, including spouse) working at the IDB or IDB Invest.\n\u2022 First job at the IDB Group: Be a first-time participant in an Internship Program held by the Bank or Inter-American Investment Corporation (\u201cCorporation\u201d also known as \u201cIDB Invest\u201d). In addition, you have not been a former staff member, Complementary Workforce (\u201cCW\u201d), contractor for the Bank or the Corporation, or have previously provided services to the Bank or the Corporation through a contractor or under any other contractual modality.\n\nNotes\n\u2022 Submit your resume, academic transcripts (official or unofficial), and university letter certifying your student status when applying.\n\u2022 If you submit an unofficial academic transcript at the time of applying, you will be requested to present an official one if moving forward.\n\u2022 Academic transcripts and university letters should be issued within the last three months.\n\u2022 For graduate students a minimum of 50% of coursework must be completed when applying.\n\u2022 Applications without the requested documentation will be disqualified.\n\u2022 Save each file in a PDF format with your name and subject.\n\u2022 DO NOT send copies of your degree certificates or other courses.\n\u2022 You must be available to work full-time (40 hours per week) from June 16 to August 15, 2026. These dates are fixed and cannot be modified. Interns must complete their assignments within this period.\n\u2022 If you are an international student in the U.S.A., your work authorization is through CPT or OPT. Consult your school advisor before applying. You must be able to work 40 hours per week, many international students are limited to working part-time, depending on their academic standing.\n\nType of contract and duration\n\u2022 Type of contract: Intern Consultant\n\u2022 Length of contract: Two (2) months\n\u2022 Dates of the contract: June 16th to August 15th, 2026\n\u2022 Location: Washington, D.C. \u2013 United States of America\n\nOur culture\n\nAt the IDB, we work so everyone brings their best and authentic selves to work while finding their purpose. Our people consistently strive for excellence, and we recognize and celebrate the impact of their contributions.\n\nIn our efforts to drive innovation, we intentionally include all voices, cultivate a sense of belonging and champion fairness. We welcome individuals from underrepresented groups to join us and share their unique perspectives.\n\nWe ensure that individuals with disabilities are provided reasonable accommodations to participate in the job interview process. If you require an accommodation to complete this application, please email us at accommodations@iadb.org.",
+            "job_is_remote": false,
+            "job_posted_at": "11 days ago",
+            "job_posted_at_timestamp": 1771286400,
+            "job_posted_at_datetime_utc": "2026-02-17T00:00:00.000Z",
+            "job_location": "Washington, DC",
+            "job_city": "Washington",
+            "job_state": "District of Columbia",
+            "job_country": "US",
+            "job_latitude": 38.9072873,
+            "job_longitude": -77.0369274,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBeQGDEIeckbB0U6kAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Education: An active graduate student in sustainability, climate change, environmental and social risk management and/or data management from an accredited University",
+                    "The graduation date should be after the Internship period",
+                    "Key Skills: Learn continuously, collaborate and share knowledge, focus on clients, communicate and influence, innovate and try new things",
+                    "Technical skills: Intermediate to advance knowledge on climate change risk, environmental and social sustainability and demonstrated experience in data management, mapping tools and similar",
+                    "Citizenship: Be a national of an IDB member country",
+                    "Active student: enrolled in a graduate (master\u2019s or Ph.D.) program as of the starting date of the internship program",
+                    "Submit your resume, academic transcripts (official or unofficial), and university letter certifying your student status when applying",
+                    "If you submit an unofficial academic transcript at the time of applying, you will be requested to present an official one if moving forward",
+                    "Academic transcripts and university letters should be issued within the last three months",
+                    "For graduate students a minimum of 50% of coursework must be completed when applying",
+                    "DO NOT send copies of your degree certificates or other courses",
+                    "You must be available to work full-time (40 hours per week) from June 16 to August 15, 2026",
+                    "You must be able to work 40 hours per week, many international students are limited to working part-time, depending on their academic standing"
+                ],
+                "Benefits": [
+                    "The 2026 Summer Internship Program is a competitive paid opportunity, based in Headquarters, for university students from member countries to learn about development work and corporate management of the Bank, and to acquire work experience at the professional level through on-the-job learning",
+                    "Consanguinity: Not have family members (up to the fourth degree of consanguinity and second degree of affinity, including spouse) working at the IDB or IDB Invest",
+                    "First job at the IDB Group: Be a first-time participant in an Internship Program held by the Bank or Inter-American Investment Corporation (\u201cCorporation\u201d also known as \u201cIDB Invest\u201d)",
+                    "Length of contract: Two (2) months"
+                ],
+                "Responsibilities": [
+                    "In coordination with the Environmental and Social Risk Management Group (RMG/ESR), design and implement a process for aggregating project-level data, facilitating portfolio-level insights and in-depth trend analysis on disaster and climate change risk management",
+                    "Collect project-level data on disaster and climate change risk from IDB projects\u2019 documentation",
+                    "Develop a comprehensive database to enable efficient storage, retrieval, and analysis of collected data",
+                    "Integrate validated datasets into existing visualization tools to enhance disaster and climate change risk monitoring and portfolio-level reporting capabilities",
+                    "Document data capture, aggregation, and integration of workflow steps to facilitate transparency and process improvement",
+                    "Save each file in a PDF format with your name and subject",
+                    "If you are an international student in the U.S.A., your work authorization is through CPT or OPT"
+                ]
+            },
+            "job_onet_soc": "11303100",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "eqfiQKV-wkmNyV-vAAAAAA==",
+            "job_title": "analyst intern",
+            "employer_name": "HiringCafe",
+            "employer_logo": null,
+            "employer_website": "https://hiring.cafe",
+            "job_publisher": "Hiring Cafe",
+            "job_employment_type": "Internship",
+            "job_employment_types": [
+                "INTERN"
+            ],
+            "job_apply_link": "https://hiring.cafe/jobs/analyst-intern/locations/washington-district-of-columbia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Hiring Cafe",
+                    "apply_link": "https://hiring.cafe/jobs/analyst-intern/locations/washington-district-of-columbia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/45dd2166e52ac175e1ebd2bdcf57f2e2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Clera",
+                    "apply_link": "https://www.getclera.com/jobs/dxc-technology/fed-analyst-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "apply_link": "https://hiring.cafe/jobs/analyst-intern/locations/washington-district-of-columbia",
+                    "is_direct": null,
+                    "publisher": "Hiring Cafe"
+                }
+            ],
+            "job_description": "Find Analyst Intern positions in Washington, DC, US. Browse opportunities on HiringCafe. Apply to remote, hybrid, and onsite positions.",
+            "job_is_remote": false,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": "Washington, DC",
+            "job_city": "Washington",
+            "job_state": "District of Columbia",
+            "job_country": "US",
+            "job_latitude": 38.9072873,
+            "job_longitude": -77.0369274,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DeqfiQKV-wkmNyV-vAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_onet_soc": "55301800",
+            "job_onet_job_zone": null
+        },
+        {
+            "job_id": "6rO3Uz4NDE0OVpYbAAAAAA==",
+            "job_title": "Research / Data Analytics Intern",
+            "employer_name": "Aaas",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaVBXEcSpM4IsaVE5uaYnteOgEt28y8H3yO1E4&s=0",
+            "employer_website": "https://www.aaas.org",
+            "job_publisher": "GrabJobs",
+            "job_employment_type": "Internship",
+            "job_employment_types": [
+                "INTERN"
+            ],
+            "job_apply_link": "https://grabjobs.co/us/job/internship/others/research-and-data-analytics-intern-153813109?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "GrabJobs",
+                    "apply_link": "https://grabjobs.co/us/job/internship/others/research-and-data-analytics-intern-153813109?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "apply_link": "https://grabjobs.co/us/job/internship/others/research-and-data-analytics-intern-153813109",
+                    "is_direct": null,
+                    "publisher": "GrabJobs"
+                }
+            ],
+            "job_description": "AAAS has an exciting opportunity for a paid intern to join our Research & Data Analytics (RDA) Department this summer! Under the supervision of the Director of Data Strategy and Quality, the Intern will have the opportunity to support real-world survey and data projects in a hybrid team environment.\n\nThe priority project for the RDA Intern is to update, field, analyze, and report on an internal employee survey assessing data culture at AAAS. The Intern may also assist with managing the data submission process for the 2027 Inclusivity for Excellence (IE) Report to include tracking, reviewing, and preparing data files collected across the organization. The Intern will also have the opportunity to learn about the new AWS ETL Platform AAAS recently implemented.\n\nHelp us ignite the next era of science.\n\nWhat you\u2019ll do\n\u2022 Designing/editing and fielding an online survey\n\u2022 Analyzing data in Power BI (comparing against previous survey results)\n\u2022 Reporting out survey results to the RDA and IT teams\n\u2022 Tracking, reviewing and preparing data files for the IE Report\n\u2022 Support projects using the new AWS ETL Platform\n\u2022 Other duties as assigned\n\nMinimum requirements\n\u2022 Currently enrolled in a university or college program at the undergraduate, graduate, or PhD level. Recent graduates in the past year may be considered.\n\u2022 Coursework in social science, data science, business administration, mathematics, or statistics.\n\u2022 Familiar with any online survey tool (e.g., Survey Monkey or Alchemer).\n\u2022 Exposure to statistical software and/or programming languages (e.g., R, SPSS, Python),\n\u2022 Comfortable with Excel and PowerPoint (or Canva).\n\u2022 Exposure to data visualization software (e.g., Power BI or Google Data Studio) a plus.\n\u2022 Familiarity with other data management tools (e.g., SQL or PySpark) a plus.\n\u2022 Detail-oriented\n\u2022 Organized\n\u2022 Strong verbal and written communication skills\n\u2022 Comfortable with both collaborative and independent work\n\nInternship Details\n\nThis internship will be expected to come into the D.C. office 1-2 times a week on a hybrid-work basis. This is a 12-week internship, which will run from\u00e2 \u00afJune 1, 2026 - August 21, 2026. The anticipated initial rate of compensation for this position is\u00e2 \u00af$17.95 per hour. Applicants must be authorized to work in the United States without the help of a sponsorship.\u00e2 \u00afPlease contact our Talent Team at\u00e2 \u00afjobs@aaas.org\u00e2 \u00afwith any questions regarding your eligibility.\u00e2 \u00af\n\nApplication Process:\u00e2 \u00af\n\nSubmit a\u00e2 \u00afresume and cover letter\u00e2 \u00afby\u00e2 \u00afMarch 30, 2026.\u00e2 \u00afYour cover letter should address why you want this internship. Applications are reviewed on a rolling basis. A recruiter will contact you with next steps if you are selected for an interview.\n\nAAAS currently provides the following benefits: paid vacation leave, paid sick leave, paid holidays, health insurance, flexible spending account, dental insurance, life insurance, vision insurance, retirement benefits, short- and long-term disability, each subject to the terms of the applicable program. Additional benefits may apply.\n\nAny actual offer of employment, reflecting the total compensation package and benefits, will be made in the sole discretion of AAAS and will be based on a variety of factors, including years of experience, depth of experience, and other relevant factors. AAAS reserves the right to amend or modify its employment benefits and compensation structure at any time.\n\nAAAS is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender, gender identity, national origin, age, disability, veteran status, or other protected category. AAAS uses E-Verify to confirm the employment eligibility of all newly hired employees. No visa sponsorship is available for this position.\n\nSearch Firm and Employment Agency Disclaimer\n\nThe American Association for the Advancement of Science (AAAS) does not accept unsolicited agency resumes. Any unsolicited resumes sent to AAAS from a third party, such as an agency, including unsolicited resumes sent to an AAAS mailing address, fax machine or email address, directly to AAAS employees, or to the AAAS resume database will be considered AAAS property. Verbal or written communications from any employee of AAAS shall not be considered binding obligations. AAAS Human Resources is the only AAAS representative authorized by AAAS to enter into any employment agreements with any third party. AAAS will not pay a fee for any placement resulting from the receipt of an unsolicited resume.\n\nOriginal job Research / Data Analytics Intern posted on GrabJobs \u00a9. To flag any issues with this job please use the Report Job button on GrabJobs.",
+            "job_is_remote": false,
+            "job_posted_at": "16 days ago",
+            "job_posted_at_timestamp": 1770854400,
+            "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+            "job_location": "Washington, DC",
+            "job_city": "Washington",
+            "job_state": "District of Columbia",
+            "job_country": "US",
+            "job_latitude": 38.9072873,
+            "job_longitude": -77.0369274,
+            "job_benefits": [
+                "health_insurance",
+                "dental_coverage",
+                "paid_time_off"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D6rO3Uz4NDE0OVpYbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Currently enrolled in a university or college program at the undergraduate, graduate, or PhD level",
+                    "Recent graduates in the past year may be considered",
+                    "Coursework in social science, data science, business administration, mathematics, or statistics",
+                    "Familiar with any online survey tool (e.g., Survey Monkey or Alchemer)",
+                    "Exposure to statistical software and/or programming languages (e.g., R, SPSS, Python),",
+                    "Comfortable with Excel and PowerPoint (or Canva)",
+                    "Detail-oriented",
+                    "Organized",
+                    "Strong verbal and written communication skills",
+                    "Comfortable with both collaborative and independent work",
+                    "Applicants must be authorized to work in the United States without the help of a sponsorship.\u00e2 \u00afPlease contact our Talent Team at\u00e2 \u00afjobs@aaas.org\u00e2 \u00afwith any questions regarding your eligibility.\u00e2 \u00af"
+                ],
+                "Benefits": [
+                    "The anticipated initial rate of compensation for this position is\u00e2 \u00af$17.95 per hour",
+                    "AAAS currently provides the following benefits: paid vacation leave, paid sick leave, paid holidays, health insurance, flexible spending account, dental insurance, life insurance, vision insurance, retirement benefits, short- and long-term disability, each subject to the terms of the applicable program",
+                    "Any actual offer of employment, reflecting the total compensation package and benefits, will be made in the sole discretion of AAAS and will be based on a variety of factors, including years of experience, depth of experience, and other relevant factors"
+                ],
+                "Responsibilities": [
+                    "Under the supervision of the Director of Data Strategy and Quality, the Intern will have the opportunity to support real-world survey and data projects in a hybrid team environment",
+                    "The priority project for the RDA Intern is to update, field, analyze, and report on an internal employee survey assessing data culture at AAAS",
+                    "The Intern may also assist with managing the data submission process for the 2027 Inclusivity for Excellence (IE) Report to include tracking, reviewing, and preparing data files collected across the organization",
+                    "Designing/editing and fielding an online survey",
+                    "Analyzing data in Power BI (comparing against previous survey results)",
+                    "Reporting out survey results to the RDA and IT teams",
+                    "Tracking, reviewing and preparing data files for the IE Report",
+                    "Support projects using the new AWS ETL Platform",
+                    "Other duties as assigned",
+                    "This internship will be expected to come into the D.C. office 1-2 times a week on a hybrid-work basis"
+                ]
+            },
+            "job_onet_soc": "43911100",
+            "job_onet_job_zone": "4"
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+IDB. Data Analyst Intern: Graduate Intern at IDB
+
+<resume gaps>:
+*   **Graduate Student Status:** The resume indicates a Bachelor of Science degree, but the internship requires an active graduate student.
+*   **Power BI & DAX:** The resume mentions Python and SQL but lacks specific experience with Power BI, DAX functions, or Power Query.
+*   **Machine Learning Algorithms:** While simulations are mentioned, explicit experience with Machine Learning Algorithms as required by the job description is not clear.
+*   **Advanced Analytical Techniques:** The "advanced analytical techniques" are not explicitly detailed beyond the stock simulation strategies.
+*   **Technical Note Writing:** No experience listed for writing technical notes.
+
+<key skills to develop>:
+*   Power BI (including Power Query and DAX functions)
+*   Machine Learning Algorithms
+*   Technical Writing (for research reports/notes)
+
+<resume changes to make>:
+*   **Education:** Update to reflect current graduate program status and anticipated graduation date *after* the internship.
+*   **Tools/Skills:** Add "Power BI," "DAX," and "Machine Learning" to your skills list with project examples.
+*   **Projects:** Quantify the impact of your data analysis in the "Business Case" project and explicitly mention any ML libraries used in simulations.**Policy and Data Analysis Intern**: The International Council on Clean Transportation (ICCT)
+**Resume Gaps**:
+*   Lack of direct experience in tracking/comparing environmental transportation policies.
+*   Limited explicit mention of analyzing datasets related to fleet/vehicle characteristics and energy/emissions performance.
+*   No direct experience in developing inputs/scenarios for transportation models to quantify policy impacts.
+*   No explicitly demonstrated experience in co-authoring reports or journal articles.
+*   "History Buff" interest in leaders and historical events does not directly align with the job's technical and policy focus.
+
+**Key Skills to Develop**:
+*   Environmental Transportation Policy Analysis
+*   Vehicle Emissions and Energy Performance Data Analysis
+*   Transportation Modeling and Scenario Development
+
+**Resume Changes to Make**:
+*   **Projects**: Quantify impact of policy analysis in "Business Case" project. Briefly mention interest in environmental policy, if applicable.
+*   **Skills**: Add "Environmental Policy Analysis" and "Fleet Data Analysis" under Skills/Interests if applicable, or create a new section.
+*   **Interests**: Remove or significantly downplay "History Buff" to focus on relevant policy and data analysis interests.Digital Analytics intern: National Retail Federation
+<resume gaps>:
+*   Direct experience with Google Analytics 4 (GA4) is not explicitly mentioned.
+*   Lack of experience with Google Tag Manager (GTM) or other tagging platforms.
+*   Limited demonstrated experience in unifying analytics across various paid, owned, and earned media channels.
+
+<key skills to develop>:
+*   Gain hands-on experience with Google Analytics 4 (GA4) through personal projects or online courses.
+*   Learn and practice using Google Tag Manager (GTM) for event tracking implementation.
+*   Develop familiarity with reporting and dashboard creation using Looker Studio or Tableau.
+
+<resume changes to make>:
+*   Add a dedicated "Digital Analytics Tools" section, listing GA4 and GTM if experience is gained.
+*   Quantify project impact with specific metrics related to data analysis and insights.
+*   Tailor project descriptions to highlight transferable skills like data validation and cross-channel analysis.Data Analytics Intern: Data Analytics Intern at [Company Name]
+
+**Resume Gaps**
+
+*   Lack of direct experience with Tableau or similar visualization tools.
+*   Limited exposure to "Enterprise Data Platform" concepts.
+*   No explicit mention of collaborative analytics efforts in a professional setting.
+
+**Key Skills to Develop**
+
+*   Tableau (or other data visualization software like Power BI)
+*   Data Warehousing/Enterprise Data Platform concepts
+*   Collaborative problem-solving and teamwork in data analysis
+
+**Resume Changes to Make**
+
+*   Quantify impact in Analytics Solutions Center leadership: "doubling engagement opportunities by creating additional weekly event..." -> "doubled student engagement opportunities by creating additional weekly events..."
+*   Add a "Technical Skills" section for clarity.
+*   If applicable, subtly weave in "collaboration" or "teamwork" into existing project descriptions.Data Scientist - Intern: Intermountain Health
+<resume gaps>:
+*   Lack of explicit mention of "statistical modeling" or "machine learning techniques" beyond project descriptions.
+*   Limited experience with specific tools/languages mentioned as preferred (Spark, Matlab).
+*   No direct experience in the healthcare industry.
+
+<key skills to develop>:
+*   Deepen understanding and practical application of specific machine learning algorithms (e.g., regression, classification, clustering).
+*   Gain exposure to and proficiency with statistical modeling frameworks.
+*   Develop communication skills tailored to explaining technical concepts to non-technical audiences.
+
+<resume changes to make>:
+*   Create a "Technical Skills" section, explicitly listing "Statistical Modeling" and "Machine Learning Techniques."
+*   Under "Projects," add a bullet point to the stock simulation mentioning specific ML concepts or challenges.
+*   Quantify achievements in leadership roles to showcase problem-solving and team management impact.IDB. Global Partnerships Data Analyst Support Intern: IDB
+<resume gaps>:
+*   Graduate student status is required; current resume indicates undergraduate.
+*   Power BI and Salesforce skills are listed as required but not present on the resume.
+*   Lack of experience in cleaning, standardizing, and analyzing data specifically with Python and Power BI as mentioned in the role.
+
+<key skills to develop>:
+*   Power BI for data visualization and dashboard creation.
+*   Salesforce for data management and analysis.
+*   Advanced data cleaning and standardization techniques in Python.
+
+<resume changes to make>:
+*   Update Education to reflect current graduate status and expected graduation date post-internship.
+*   Add Power BI and Salesforce to the Tools/Skills section, detailing any relevant coursework or self-study.
+*   Quantify impact in the TA role by highlighting any data standardization or cleaning tasks performed.Museum Store Sales Analyst Internship – Bible Category Analytics: Museum Store Sales Analyst Internship
+<resume gaps>:
+*   Lack of specific experience or demonstrated interest in the Bible publishing industry or religious texts.
+*   No explicit mention of analyzing product features like typography or binding.
+*   Limited experience with retail-specific metrics like sell-through, turns, or dollars per square foot.
+
+<key skills to develop>:
+*   **Bible Category Knowledge:** Researching Bible formats, features, and publishing trends to understand their impact on sales.
+*   **Retail Analytics Metrics:** Familiarizing yourself with and practicing calculations for sell-through, inventory turns, margins, and category productivity.
+*   **Product Feature Analysis:** Developing the ability to assess and articulate the value of specific product attributes (e.g., binding types, font styles) in relation to sales.
+
+<resume changes to make>:
+*   **Skills Section:** Add "Bible Publishing Trends," "Retail Metrics Analysis," and "Product Feature Evaluation."
+*   **Projects Section:** Briefly mention analyzing product features or pricing strategies if applicable to existing projects.
+*   **Interests Section:** Emphasize interest in "specialty retail," "product analytics," and potentially "cultural texts."**IDB. Data Collection and Analysis for Disaster and Climate Risk Portfolio Monitoring Internship**
+
+**Resume Gaps:**
+
+*   **Graduate Student Status:** The resume indicates an undergraduate degree in progress, not a graduate program. The internship explicitly requires an active graduate student.
+*   **Climate Change/Environmental Risk Expertise:** While the resume shows data analysis skills, there's no direct experience or coursework mentioned related to climate change, disaster risk, or environmental/social risk management.
+*   **Specific Technical Skills:** The job description mentions "mapping tools and similar" and "visualization tools," which are not explicitly detailed in the resume.
+
+**Key Skills to Develop:**
+
+*   Climate Change Risk Analysis
+*   Environmental and Social Risk Management Methodologies
+*   Geospatial Data Analysis and Visualization Tools (e.g., ArcGIS, QGIS, Tableau, Power BI)
+
+**Resume Changes to Make:**
+
+*   Clearly state graduate program enrollment and expected graduation date.
+*   Add a bullet point under projects or skills highlighting any coursework or projects involving climate, environmental, or disaster risk data.
+*   Mention specific data visualization or mapping tools used, if applicable.Analyst Intern: Job opportunities on HiringCafe
+
+<resume gaps>:
+* Lack of specific keywords related to "analyst intern" roles.
+* No clear indication of understanding or experience with the specific tools/software commonly used in analyst intern positions (e.g., Excel for advanced analysis, Tableau/Power BI for visualization).
+* Projects are strong but could be more directly tied to business problems relevant to an analyst intern role.
+
+<key skills to develop>:
+* Advanced Excel (Pivot Tables, VLOOKUP/XLOOKUP, Data Visualization)
+* Data Visualization Tools (e.g., Tableau, Power BI)
+* Business Acumen (understanding of common business challenges and how data can solve them)
+
+<resume changes to make>:
+* **Quantify impact:** For "Assistant Coordinator," add metrics for efficiency gains or cost savings.
+* **Tailor skills:** Add "Microsoft Excel" to your skills section.
+* **Strengthen projects:** Briefly mention the business problem solved in the "Business Case" project.**Research / Data Analytics Intern**: AAAS
+
+**Resume Gaps**:
+*   Lack of direct experience with online survey tools (e.g., SurveyMonkey, Alchemer).
+*   No explicit mention of Power BI or Google Data Studio for data visualization.
+*   Limited experience with data file management and preparation for reporting (e.g., IE Report).
+*   No specific mention of working with AWS ETL platforms.
+
+**Key Skills to Develop**:
+*   Proficiency in online survey platforms (e.g., SurveyMonkey, Alchemer).
+*   Experience with data visualization tools, specifically Power BI.
+*   Familiarity with data ETL processes and AWS ETL platforms.
+
+**Resume Changes to Make**:
+*   Quantify project impact using specific numbers where possible.
+*   Add a bullet point for your AWS stock simulation detailing its use for data extraction and processing.
+*   Clearly list "Data Visualization" under Skills and mention Power BI or similar tools if learned.
